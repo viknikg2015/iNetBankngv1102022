@@ -12,8 +12,8 @@
     <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.inetBanking.testCases.TC_loginTest_001"/>
-     <class name="com.inetBanking.testCases.TC_loginTest_002"/>
-	  <class name="com.inetBanking.testCases.TC_AddCustomerTest_003"/>
+      <!-- <class name="com.inetBanking.testCases.TC_loginTest_002"/>
+	  <class name="com.inetBanking.testCases.TC_AddCustomerTest_003"/>-->
      <!-- <class name="com.inetBanking.testCases.TestTest2"/>-->
     </classes>
   </test>
