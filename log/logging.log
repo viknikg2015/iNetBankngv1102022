@@ -2167,4 +2167,31 @@
   2022-11-02 21:41:57 INFO  iNetBanking:34 - Login test Passed
   2022-11-02 21:41:58 INFO  iNetBanking:84 - Quiting Driver Done
   2022-11-02 21:41:58 INFO  iNetBanking:85 - 
+  2022-11-02 22:10:45 INFO  iNetBanking:54 - 
+  2022-11-02 22:11:09 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-02 22:11:47 INFO  iNetBanking:73 - trying opening url
+  2022-11-02 22:11:48 INFO  iNetBanking:18 - Url is Opened
+  2022-11-02 22:11:51 INFO  iNetBanking:23 - Entered Username
+  2022-11-02 22:11:52 INFO  iNetBanking:25 - Entered Password
+  2022-11-02 22:12:03 INFO  iNetBanking:34 - Login test Passed
+  2022-11-02 22:12:04 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-02 22:12:04 INFO  iNetBanking:85 - 
+  2022-11-02 22:12:57 INFO  iNetBanking:54 - 
+  2022-11-02 22:13:07 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-02 22:13:22 INFO  iNetBanking:73 - trying opening url
+  2022-11-02 22:13:23 INFO  iNetBanking:18 - Url is Opened
+  2022-11-02 22:13:26 INFO  iNetBanking:23 - Entered Username
+  2022-11-02 22:13:26 INFO  iNetBanking:25 - Entered Password
+  2022-11-02 22:13:37 INFO  iNetBanking:34 - Login test Passed
+  2022-11-02 22:13:38 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-02 22:13:38 INFO  iNetBanking:85 - 
+  2022-11-02 22:14:36 INFO  iNetBanking:54 - 
+  2022-11-02 22:15:05 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-02 22:15:48 INFO  iNetBanking:73 - trying opening url
+  2022-11-02 22:15:48 INFO  iNetBanking:18 - Url is Opened
+  2022-11-02 22:15:51 INFO  iNetBanking:23 - Entered Username
+  2022-11-02 22:15:52 INFO  iNetBanking:25 - Entered Password
+  2022-11-02 22:16:20 INFO  iNetBanking:34 - Login test Passed
+  2022-11-02 22:16:21 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-02 22:16:21 INFO  iNetBanking:85 - 
   
