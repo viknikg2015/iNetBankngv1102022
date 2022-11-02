@@ -1,0 +1,2125 @@
+2022-10-10 18:11:04 INFO  iNetBanking:16 - Url is Opened
+  2022-10-10 18:11:05 INFO  iNetBanking:21 - Enterd Username
+  2022-10-10 18:11:05 INFO  iNetBanking:23 - Enterd Password
+  2022-10-10 18:11:13 INFO  iNetBanking:31 - Login test Passed
+  2022-10-10 18:13:02 INFO  iNetBanking:16 - Url is Opened
+  2022-10-10 18:13:03 INFO  iNetBanking:21 - Entered Username
+  2022-10-10 18:13:05 INFO  iNetBanking:23 - Entered Password
+  2022-10-10 18:13:12 INFO  iNetBanking:31 - Login test Passed
+  2022-10-10 19:15:42 INFO  iNetBanking:16 - Url is Opened
+  2022-10-10 19:15:44 INFO  iNetBanking:21 - Entered Username
+  2022-10-10 19:15:44 INFO  iNetBanking:23 - Entered Password
+  2022-10-10 19:15:50 INFO  iNetBanking:31 - Login test Passed
+  2022-10-16 13:51:36 INFO  iNetBanking:16 - Url is Opened
+  2022-10-16 13:51:38 INFO  iNetBanking:21 - Entered Username
+  2022-10-16 13:51:38 INFO  iNetBanking:23 - Entered Password
+  2022-10-16 13:51:47 INFO  iNetBanking:31 - Login test Passed
+  2022-10-16 13:53:56 INFO  iNetBanking:16 - Url is Opened
+  2022-10-16 13:53:59 INFO  iNetBanking:21 - Entered Username
+  2022-10-16 13:53:59 INFO  iNetBanking:23 - Entered Password
+  2022-10-16 13:54:06 INFO  iNetBanking:31 - Login test Passed
+  2022-10-16 14:05:16 INFO  iNetBanking:55 - FireFoxdriver Setup Done
+  2022-10-16 14:05:29 INFO  iNetBanking:16 - Url is Opened
+  2022-10-16 14:05:31 INFO  iNetBanking:21 - Entered Username
+  2022-10-16 14:05:33 INFO  iNetBanking:23 - Entered Password
+  2022-10-16 14:05:43 INFO  iNetBanking:31 - Login test Passed
+  2022-10-16 14:05:48 INFO  iNetBanking:66 - Quiting Driver Done
+  2022-10-22 21:03:28 INFO  iNetBanking:49 - Chromedriver Setup Done
+  2022-10-22 21:03:36 INFO  iNetBanking:16 - Url is Opened
+  2022-10-22 21:03:37 INFO  iNetBanking:21 - Entered Username
+  2022-10-22 21:03:38 INFO  iNetBanking:23 - Entered Password
+  2022-10-22 21:03:42 INFO  iNetBanking:31 - Login test Passed
+  2022-10-22 21:03:43 INFO  iNetBanking:66 - Quiting Driver Done
+  2022-10-22 21:06:44 INFO  iNetBanking:49 - Chromedriver Setup Done
+  2022-10-22 21:06:55 INFO  iNetBanking:16 - Url is Opened
+  2022-10-22 21:07:01 INFO  iNetBanking:21 - Entered Username
+  2022-10-22 21:07:03 INFO  iNetBanking:23 - Entered Password
+  2022-10-22 21:07:16 INFO  iNetBanking:31 - Login test Passed
+  2022-10-22 21:07:27 INFO  iNetBanking:66 - Quiting Driver Done
+  2022-10-22 22:07:13 INFO  iNetBanking:49 - Chromedriver Setup Done
+  2022-10-22 22:07:27 INFO  iNetBanking:16 - Url is Opened
+  2022-10-22 22:07:34 INFO  iNetBanking:21 - Entered Username
+  2022-10-22 22:07:35 INFO  iNetBanking:23 - Entered Password
+  2022-10-22 22:07:44 INFO  iNetBanking:66 - Quiting Driver Done
+  2022-10-22 22:17:57 INFO  iNetBanking:49 - Chromedriver Setup Done
+  2022-10-22 22:18:15 INFO  iNetBanking:16 - Url is Opened
+  2022-10-22 22:18:15 INFO  iNetBanking:21 - Entered Username
+  2022-10-22 22:18:15 INFO  iNetBanking:23 - Entered Password
+  2022-10-22 22:18:22 INFO  iNetBanking:66 - Quiting Driver Done
+  2022-10-22 22:21:46 INFO  iNetBanking:49 - Chromedriver Setup Done
+  2022-10-22 22:22:59 INFO  iNetBanking:16 - Url is Opened
+  2022-10-22 22:22:59 INFO  iNetBanking:21 - Entered Username
+  2022-10-22 22:22:59 INFO  iNetBanking:23 - Entered Password
+  2022-10-22 22:23:07 INFO  iNetBanking:35 - Login test Failed
+  2022-10-22 22:23:07 INFO  iNetBanking:66 - Quiting Driver Done
+  2022-10-22 22:43:17 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-22 22:43:32 INFO  iNetBanking:18 - Url is Opened
+  2022-10-22 22:43:34 INFO  iNetBanking:23 - Entered Username
+  2022-10-22 22:43:35 INFO  iNetBanking:25 - Entered Password
+  2022-10-22 22:43:41 INFO  iNetBanking:38 - Login test Failed
+  2022-10-22 22:43:42 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-22 22:46:59 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-22 22:47:16 INFO  iNetBanking:18 - Url is Opened
+  2022-10-22 22:47:21 INFO  iNetBanking:23 - Entered Username
+  2022-10-22 22:47:21 INFO  iNetBanking:25 - Entered Password
+  2022-10-22 22:47:40 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-22 22:47:40 INFO  iNetBanking:38 - Login test Failed
+  2022-10-22 22:47:41 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-22 22:57:18 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-22 22:57:42 INFO  iNetBanking:18 - Url is Opened
+  2022-10-22 22:57:43 INFO  iNetBanking:23 - Entered Username
+  2022-10-22 22:57:44 INFO  iNetBanking:25 - Entered Password
+  2022-10-22 22:57:51 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-22 22:57:51 INFO  iNetBanking:38 - Login test Failed
+  2022-10-22 22:57:53 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-22 23:01:52 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-22 23:02:11 INFO  iNetBanking:18 - Url is Opened
+  2022-10-22 23:02:11 INFO  iNetBanking:23 - Entered Username
+  2022-10-22 23:02:12 INFO  iNetBanking:25 - Entered Password
+  2022-10-22 23:02:15 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-22 23:02:15 INFO  iNetBanking:38 - Login test Failed
+  2022-10-22 23:02:16 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-22 23:03:41 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-22 23:04:04 INFO  iNetBanking:18 - Url is Opened
+  2022-10-22 23:04:04 INFO  iNetBanking:23 - Entered Username
+  2022-10-22 23:04:04 INFO  iNetBanking:25 - Entered Password
+  2022-10-22 23:04:13 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-22 23:04:13 INFO  iNetBanking:38 - Login test Failed
+  2022-10-22 23:04:14 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-22 23:14:29 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-22 23:14:48 INFO  iNetBanking:18 - Url is Opened
+  2022-10-22 23:14:50 INFO  iNetBanking:23 - Entered Username
+  2022-10-22 23:14:50 INFO  iNetBanking:25 - Entered Password
+  2022-10-22 23:14:58 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-22 23:14:58 INFO  iNetBanking:38 - Login test Failed
+  2022-10-22 23:15:00 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 13:55:55 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 13:56:07 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 13:56:07 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 13:56:08 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 13:56:16 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-25 13:56:16 INFO  iNetBanking:38 - Login test Failed
+  2022-10-25 13:56:18 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 13:58:54 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 13:59:11 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 13:59:12 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 13:59:12 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 13:59:15 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-25 13:59:15 INFO  iNetBanking:38 - Login test Failed
+  2022-10-25 13:59:16 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 14:00:44 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 14:01:05 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 14:01:06 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 14:01:06 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 14:01:12 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-25 14:01:12 INFO  iNetBanking:38 - Login test Failed
+  2022-10-25 14:01:13 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 14:02:49 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 14:02:59 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 14:03:00 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 14:03:00 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 14:03:06 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-25 14:03:06 INFO  iNetBanking:38 - Login test Failed
+  2022-10-25 14:03:08 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 14:15:10 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 14:15:45 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 14:15:46 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 14:15:46 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 14:15:48 INFO  iNetBanking:38 - Login test Failed
+  2022-10-25 14:15:49 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 15:56:46 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 15:56:55 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 15:56:56 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 15:56:56 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 15:57:02 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-25 15:57:02 INFO  iNetBanking:38 - Login test Failed
+  2022-10-25 15:57:03 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 16:33:18 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 16:33:42 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 16:33:42 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 16:33:43 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 16:33:58 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-25 16:33:58 INFO  iNetBanking:38 - Login test Failed
+  2022-10-25 16:34:01 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 16:43:39 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 16:43:46 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 16:43:47 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 16:43:49 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 16:43:54 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-25 16:43:54 INFO  iNetBanking:38 - Login test Failed
+  2022-10-25 16:43:55 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 16:52:11 INFO  iNetBanking:61 - FireFoxdriver Setup Done
+  2022-10-25 16:52:37 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 16:52:38 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 16:52:39 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 16:52:44 INFO  iNetBanking:82 - Screenshot Taken
+  2022-10-25 16:52:44 INFO  iNetBanking:38 - Login test Failed
+  2022-10-25 16:52:49 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 16:55:58 INFO  iNetBanking:61 - FireFoxdriver Setup Done
+  2022-10-25 16:56:22 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 16:56:22 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 16:56:22 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 16:56:25 INFO  iNetBanking:33 - Login test Passed
+  2022-10-25 16:56:27 INFO  iNetBanking:72 - Quiting Driver Done
+  2022-10-25 19:05:28 INFO  iNetBanking:56 - Chromedriver Setup Done
+  2022-10-25 19:05:37 INFO  iNetBanking:74 - Quiting Driver Done
+  2022-10-25 19:08:28 INFO  iNetBanking:56 - Chromedriver Setup Done
+  2022-10-25 19:08:35 INFO  iNetBanking:74 - Quiting Driver Done
+  2022-10-25 19:13:02 INFO  iNetBanking:56 - Chromedriver Setup Done
+  2022-10-25 19:13:11 INFO  iNetBanking:74 - Quiting Driver Done
+  2022-10-25 19:22:42 INFO  iNetBanking:56 - Chromedriver Setup Done
+  2022-10-25 19:22:53 INFO  iNetBanking:74 - Quiting Driver Done
+  2022-10-25 19:35:34 INFO  iNetBanking:56 - Chromedriver Setup Done
+  2022-10-25 19:35:42 INFO  iNetBanking:76 - Quiting Driver Done
+  2022-10-25 21:50:35 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-25 21:50:50 INFO  iNetBanking:78 - Quiting Driver Done
+  2022-10-25 21:52:02 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 21:52:08 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 21:52:08 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 21:52:09 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 21:52:14 INFO  iNetBanking:33 - Login test Passed
+  2022-10-25 21:52:15 INFO  iNetBanking:76 - Quiting Driver Done
+  2022-10-25 22:13:11 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:13:23 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 22:13:24 INFO  iNetBanking:23 - Entered Username
+  2022-10-25 22:13:24 INFO  iNetBanking:25 - Entered Password
+  2022-10-25 22:13:29 INFO  iNetBanking:33 - Login test Passed
+  2022-10-25 22:13:30 INFO  iNetBanking:76 - Quiting Driver Done
+  2022-10-25 22:17:04 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:17:13 INFO  iNetBanking:76 - Quiting Driver Done
+  2022-10-25 22:18:58 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:19:31 INFO  iNetBanking:76 - Quiting Driver Done
+  2022-10-25 22:23:39 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:23:55 INFO  iNetBanking:76 - Quiting Driver Done
+  2022-10-25 22:26:48 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:26:58 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 22:26:58 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 22:35:23 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:35:56 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 22:35:56 INFO  iNetBanking:75 - into getdata 
+  2022-10-25 22:35:57 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 22:41:22 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:41:27 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 22:41:27 INFO  iNetBanking:75 - into getdata 
+  2022-10-25 22:41:27 INFO  iNetBanking:78 - Excel File Path Set Done
+  2022-10-25 22:41:28 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 22:41:52 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:42:05 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 22:42:05 INFO  iNetBanking:75 - into getdata 
+  2022-10-25 22:42:05 INFO  iNetBanking:78 - Excel File Path Set Done
+  2022-10-25 22:42:05 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 22:47:40 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:47:46 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 22:47:46 INFO  iNetBanking:75 - into getdata 
+  2022-10-25 22:47:46 INFO  iNetBanking:79 - Excel File Path Set Done
+  2022-10-25 22:47:46 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 22:56:56 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:57:09 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 22:57:09 INFO  iNetBanking:75 - into getdata 
+  2022-10-25 22:57:09 INFO  iNetBanking:81 - Excel File Path Set Done
+  2022-10-25 22:57:13 INFO  iNetBanking:83 - Row count of sheet 1 set to rownum
+  2022-10-25 22:57:14 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 22:58:26 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 22:58:41 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 22:58:41 INFO  iNetBanking:75 - into getdata 
+  2022-10-25 22:58:41 INFO  iNetBanking:81 - Excel File Path Set Done
+  2022-10-25 22:58:42 INFO  iNetBanking:83 - Row count of sheet 1 set to rownum5
+  2022-10-25 22:58:43 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 23:06:13 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 23:06:19 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 23:06:19 INFO  iNetBanking:75 - into getdata 
+  2022-10-25 23:06:19 INFO  iNetBanking:81 - Excel File Path Set Done
+  2022-10-25 23:06:26 INFO  iNetBanking:83 - Row count of sheet 1 set to rownum5
+  2022-10-25 23:06:27 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 23:29:37 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 23:30:02 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 23:30:02 INFO  iNetBanking:75 - into getdata 
+  2022-10-25 23:30:02 INFO  iNetBanking:81 - Excel File Path Set Done
+  2022-10-25 23:30:08 INFO  iNetBanking:83 - Row count of sheet 1 set to rownum5
+  2022-10-25 23:30:09 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 23:32:26 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 23:32:34 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 23:32:34 INFO  iNetBanking:75 - into getdata 
+  2022-10-25 23:32:34 INFO  iNetBanking:81 - Excel File Path Set Done
+  2022-10-25 23:32:35 INFO  iNetBanking:83 - Row count of sheet 1 set to rownum5
+  2022-10-25 23:32:35 INFO  iNetBanking:86 - Column count of sheet 1 set on colcount
+  2022-10-25 23:32:35 INFO  iNetBanking:89 - logindata variable created
+  2022-10-25 23:32:36 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:32:38 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:32:38 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:32:46 INFO  iNetBanking:43 - Login Passed
+  2022-10-25 23:33:05 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:33:06 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:33:06 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:33:16 WARN  iNetBanking:38 - login Failed
+  2022-10-25 23:33:16 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:33:16 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:33:16 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:33:28 WARN  iNetBanking:38 - login Failed
+  2022-10-25 23:33:28 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:33:28 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:33:28 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:33:35 INFO  iNetBanking:43 - Login Passed
+  2022-10-25 23:33:43 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:33:43 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:33:43 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:33:52 WARN  iNetBanking:38 - login Failed
+  2022-10-25 23:33:52 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-25 23:51:20 INFO  iNetBanking:55 - Chromedriver Setup Done
+  2022-10-25 23:51:35 INFO  iNetBanking:68 - trying opening url
+  2022-10-25 23:51:35 INFO  iNetBanking:76 - into getdata 
+  2022-10-25 23:51:38 INFO  iNetBanking:81 - Row count of sheet  set to rownum
+  2022-10-25 23:51:39 INFO  iNetBanking:97 - Returned logindata array
+  2022-10-25 23:51:39 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:51:39 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:51:40 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:51:48 INFO  iNetBanking:44 - Login Passed
+  2022-10-25 23:52:19 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:52:19 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:52:20 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:52:31 WARN  iNetBanking:38 - login Failed
+  2022-10-25 23:52:31 INFO  iNetBanking:87 - Screenshot Taken
+  2022-10-25 23:52:31 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:52:31 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:52:31 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:52:38 WARN  iNetBanking:38 - login Failed
+  2022-10-25 23:52:39 INFO  iNetBanking:87 - Screenshot Taken
+  2022-10-25 23:52:39 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:52:40 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:52:40 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:52:46 INFO  iNetBanking:44 - Login Passed
+  2022-10-25 23:53:14 INFO  iNetBanking:18 - Url is Opened
+  2022-10-25 23:53:14 INFO  iNetBanking:22 - Username Entered
+  2022-10-25 23:53:15 INFO  iNetBanking:24 - Password Entered
+  2022-10-25 23:53:22 WARN  iNetBanking:38 - login Failed
+  2022-10-25 23:53:23 INFO  iNetBanking:87 - Screenshot Taken
+  2022-10-25 23:53:24 INFO  iNetBanking:77 - Quiting Driver Done
+  2022-10-26 00:08:05 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 00:08:19 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 00:08:19 INFO  iNetBanking:77 - into getdata 
+  2022-10-26 00:08:22 INFO  iNetBanking:82 - Row count of sheet  set to rownum
+  2022-10-26 00:08:22 INFO  iNetBanking:98 - Returned logindata array
+  2022-10-26 00:08:22 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:08:23 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:08:23 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:08:38 INFO  iNetBanking:45 - Login Passed
+  2022-10-26 00:08:51 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:08:52 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:08:53 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:08:58 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:09:19 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:09:19 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:09:25 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:09:41 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:09:41 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:09:49 INFO  iNetBanking:45 - Login Passed
+  2022-10-26 00:09:58 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:09:59 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:10:00 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:10:05 INFO  iNetBanking:80 - Quiting Driver Done
+  2022-10-26 00:27:09 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 00:27:21 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 00:27:21 INFO  iNetBanking:80 - into getdata 
+  2022-10-26 00:27:26 INFO  iNetBanking:100 - Returned logindata array
+  2022-10-26 00:27:26 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:27:26 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:27:26 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:27:32 INFO  iNetBanking:48 - Login Passed
+  2022-10-26 00:27:51 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:27:52 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:27:52 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:27:56 INFO  iNetBanking:36 - Trying to get screenhot
+  2022-10-26 00:27:56 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:28:02 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:28:02 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:28:07 INFO  iNetBanking:36 - Trying to get screenhot
+  2022-10-26 00:28:07 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:28:11 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:28:11 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:28:18 INFO  iNetBanking:48 - Login Passed
+  2022-10-26 00:28:27 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:28:27 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:28:27 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:36:03 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 00:36:21 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 00:36:21 INFO  iNetBanking:80 - into getdata 
+  2022-10-26 00:36:24 INFO  iNetBanking:100 - Returned logindata array
+  2022-10-26 00:36:24 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:36:25 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:36:25 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:36:36 INFO  iNetBanking:48 - Login Passed
+  2022-10-26 00:36:46 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:36:47 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:36:48 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:36:52 INFO  iNetBanking:36 - Trying to get screenhot
+  2022-10-26 00:36:52 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 00:36:52 INFO  iNetBanking:40 - Alert Accepted
+  2022-10-26 00:36:57 WARN  iNetBanking:42 - login Failed
+  2022-10-26 00:36:58 INFO  iNetBanking:91 - Screenshot Taken
+  2022-10-26 00:36:58 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:36:59 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:36:59 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:37:04 INFO  iNetBanking:36 - Trying to get screenhot
+  2022-10-26 00:37:04 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 00:37:04 INFO  iNetBanking:40 - Alert Accepted
+  2022-10-26 00:37:25 WARN  iNetBanking:42 - login Failed
+  2022-10-26 00:37:26 INFO  iNetBanking:91 - Screenshot Taken
+  2022-10-26 00:37:26 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:37:27 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:37:27 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:37:35 INFO  iNetBanking:48 - Login Passed
+  2022-10-26 00:37:43 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:37:43 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:37:44 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:37:48 INFO  iNetBanking:36 - Trying to get screenhot
+  2022-10-26 00:37:48 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 00:37:48 INFO  iNetBanking:40 - Alert Accepted
+  2022-10-26 00:38:11 WARN  iNetBanking:42 - login Failed
+  2022-10-26 00:38:11 INFO  iNetBanking:91 - Screenshot Taken
+  2022-10-26 00:38:12 INFO  iNetBanking:80 - Quiting Driver Done
+  2022-10-26 00:53:07 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 00:53:32 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 00:53:32 INFO  iNetBanking:81 - into getdata 
+  2022-10-26 00:53:42 INFO  iNetBanking:101 - Returned logindata array
+  2022-10-26 00:53:42 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:53:43 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:53:43 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:53:53 INFO  iNetBanking:49 - Login Passed
+  2022-10-26 00:54:04 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:54:05 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:54:05 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:54:09 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:54:10 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:54:31 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:54:31 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:54:59 INFO  iNetBanking:49 - Login Passed
+  2022-10-26 00:55:06 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 00:55:06 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 00:55:07 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 00:55:13 INFO  iNetBanking:80 - Quiting Driver Done
+  2022-10-26 01:03:57 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 01:04:06 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 01:04:06 INFO  iNetBanking:82 - into getdata 
+  2022-10-26 01:04:09 INFO  iNetBanking:102 - Returned logindata array
+  2022-10-26 01:04:09 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:04:10 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:04:10 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:04:20 INFO  iNetBanking:50 - Login Passed
+  2022-10-26 01:04:48 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:04:48 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:04:50 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:04:55 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 01:04:55 INFO  iNetBanking:40 - Trying to get screenhot
+  2022-10-26 01:05:01 INFO  iNetBanking:91 - Screenshot Taken
+  2022-10-26 01:05:01 WARN  iNetBanking:44 - login Failed
+  2022-10-26 01:05:01 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:05:02 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:05:02 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:05:08 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 01:05:08 INFO  iNetBanking:40 - Trying to get screenhot
+  2022-10-26 01:05:14 INFO  iNetBanking:91 - Screenshot Taken
+  2022-10-26 01:05:14 WARN  iNetBanking:44 - login Failed
+  2022-10-26 01:05:14 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:05:14 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:05:14 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:05:22 INFO  iNetBanking:50 - Login Passed
+  2022-10-26 01:05:31 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:05:32 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:05:32 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:05:36 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 01:05:36 INFO  iNetBanking:40 - Trying to get screenhot
+  2022-10-26 01:05:39 INFO  iNetBanking:91 - Screenshot Taken
+  2022-10-26 01:05:40 WARN  iNetBanking:44 - login Failed
+  2022-10-26 01:05:41 INFO  iNetBanking:80 - Quiting Driver Done
+  2022-10-26 01:23:04 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 01:23:10 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 01:23:10 INFO  iNetBanking:82 - into getdata 
+  2022-10-26 01:23:22 INFO  iNetBanking:102 - Returned logindata array
+  2022-10-26 01:23:22 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:23:24 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:23:24 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:23:38 INFO  iNetBanking:50 - Login Passed
+  2022-10-26 01:23:50 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:23:50 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:23:50 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:23:55 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:24:00 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:24:01 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:24:05 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:24:09 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:24:09 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:24:17 INFO  iNetBanking:50 - Login Passed
+  2022-10-26 01:24:25 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:24:25 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:24:26 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:24:31 INFO  iNetBanking:80 - Quiting Driver Done
+  2022-10-26 01:37:49 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 01:37:59 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 01:37:59 INFO  iNetBanking:85 - into getdata 
+  2022-10-26 01:38:10 INFO  iNetBanking:105 - Returned logindata array
+  2022-10-26 01:38:10 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:38:10 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:38:11 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:38:17 INFO  iNetBanking:53 - Login Passed
+  2022-10-26 01:38:39 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:38:40 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:38:41 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:38:45 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 01:38:45 INFO  iNetBanking:40 - Alert Accepted
+  2022-10-26 01:38:49 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-26 01:38:50 INFO  iNetBanking:92 - Screenshot Taken
+  2022-10-26 01:38:50 WARN  iNetBanking:48 - login Failed
+  2022-10-26 01:38:50 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:38:50 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:38:50 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:38:55 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 01:38:55 INFO  iNetBanking:40 - Alert Accepted
+  2022-10-26 01:39:16 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-26 01:39:16 INFO  iNetBanking:92 - Screenshot Taken
+  2022-10-26 01:39:16 WARN  iNetBanking:48 - login Failed
+  2022-10-26 01:39:16 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:39:18 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:39:18 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:39:25 INFO  iNetBanking:53 - Login Passed
+  2022-10-26 01:39:32 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:39:33 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:39:33 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:39:37 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 01:39:37 INFO  iNetBanking:40 - Alert Accepted
+  2022-10-26 01:39:59 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-26 01:39:59 INFO  iNetBanking:92 - Screenshot Taken
+  2022-10-26 01:39:59 WARN  iNetBanking:48 - login Failed
+  2022-10-26 01:40:00 INFO  iNetBanking:80 - Quiting Driver Done
+  2022-10-26 01:40:00 INFO  iNetBanking:81 - 
+  2022-10-26 01:55:48 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 01:55:59 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 01:55:59 INFO  iNetBanking:88 - into getdata 
+  2022-10-26 01:56:04 INFO  iNetBanking:108 - Returned logindata array
+  2022-10-26 01:56:04 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:56:04 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:56:05 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:56:12 INFO  iNetBanking:53 - Login Passed
+  2022-10-26 01:56:28 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:56:28 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:56:28 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:56:33 INFO  iNetBanking:73 - Trying to get screenhot
+  2022-10-26 01:56:33 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:56:39 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:56:40 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:56:44 INFO  iNetBanking:73 - Trying to get screenhot
+  2022-10-26 01:56:44 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:57:09 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:57:10 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:57:35 INFO  iNetBanking:53 - Login Passed
+  2022-10-26 01:57:42 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 01:57:44 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 01:57:44 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 01:57:48 INFO  iNetBanking:73 - Trying to get screenhot
+  2022-10-26 01:57:49 INFO  iNetBanking:80 - Quiting Driver Done
+  2022-10-26 01:57:49 INFO  iNetBanking:81 - 
+  2022-10-26 02:00:11 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 02:00:16 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 02:00:16 INFO  iNetBanking:88 - into getdata 
+  2022-10-26 02:00:19 INFO  iNetBanking:108 - Returned logindata array
+  2022-10-26 02:00:19 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:00:19 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:00:20 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:00:26 INFO  iNetBanking:53 - Login Passed
+  2022-10-26 02:00:35 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:00:37 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:00:37 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:00:42 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-26 02:00:42 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 02:00:50 WARN  iNetBanking:48 - login Failed
+  2022-10-26 02:00:50 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:00:50 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:00:51 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:00:55 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-26 02:00:55 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 02:00:59 WARN  iNetBanking:48 - login Failed
+  2022-10-26 02:00:59 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:00:59 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:01:01 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:01:22 INFO  iNetBanking:53 - Login Passed
+  2022-10-26 02:01:30 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:01:30 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:01:30 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:01:35 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-26 02:01:35 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 02:01:38 WARN  iNetBanking:48 - login Failed
+  2022-10-26 02:01:39 INFO  iNetBanking:80 - Quiting Driver Done
+  2022-10-26 02:01:39 INFO  iNetBanking:81 - 
+  2022-10-26 02:05:14 INFO  iNetBanking:58 - Chromedriver Setup Done
+  2022-10-26 02:05:22 INFO  iNetBanking:71 - trying opening url
+  2022-10-26 02:05:22 INFO  iNetBanking:88 - into getdata 
+  2022-10-26 02:05:27 INFO  iNetBanking:108 - Returned logindata array
+  2022-10-26 02:05:27 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:05:27 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:05:28 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:05:34 INFO  iNetBanking:53 - Login Passed
+  2022-10-26 02:05:48 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:05:48 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:05:49 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:05:53 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-26 02:05:53 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 02:06:00 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-26 02:06:01 INFO  iNetBanking:92 - Screenshot Taken
+  2022-10-26 02:06:01 WARN  iNetBanking:48 - login Failed
+  2022-10-26 02:06:01 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:06:01 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:06:02 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:06:06 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-26 02:06:06 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 02:06:09 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-26 02:06:09 INFO  iNetBanking:92 - Screenshot Taken
+  2022-10-26 02:06:09 WARN  iNetBanking:48 - login Failed
+  2022-10-26 02:06:09 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:06:10 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:06:11 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:06:17 INFO  iNetBanking:53 - Login Passed
+  2022-10-26 02:06:25 INFO  iNetBanking:18 - Url is Opened
+  2022-10-26 02:06:26 INFO  iNetBanking:22 - Username Entered
+  2022-10-26 02:06:26 INFO  iNetBanking:24 - Password Entered
+  2022-10-26 02:06:30 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-26 02:06:30 INFO  iNetBanking:38 - Trying Accepting Alert
+  2022-10-26 02:06:33 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-26 02:06:34 INFO  iNetBanking:92 - Screenshot Taken
+  2022-10-26 02:06:34 WARN  iNetBanking:48 - login Failed
+  2022-10-26 02:06:35 INFO  iNetBanking:80 - Quiting Driver Done
+  2022-10-26 02:06:35 INFO  iNetBanking:81 - 
+  2022-10-27 18:04:07 INFO  iNetBanking:59 - Chromedriver Setup Done
+  2022-10-27 18:04:12 INFO  iNetBanking:72 - trying opening url
+  2022-10-27 18:04:12 INFO  iNetBanking:17 - Url is Opened
+  2022-10-27 18:04:18 INFO  iNetBanking:22 - Entered Username
+  2022-10-27 18:04:19 INFO  iNetBanking:24 - Entered Password
+  2022-10-27 18:04:32 INFO  iNetBanking:81 - Quiting Driver Done
+  2022-10-27 18:04:32 INFO  iNetBanking:82 - 
+  2022-10-27 18:15:14 INFO  iNetBanking:59 - Chromedriver Setup Done
+  2022-10-27 18:15:20 INFO  iNetBanking:72 - trying opening url
+  2022-10-27 18:15:20 INFO  iNetBanking:17 - Url is Opened
+  2022-10-27 18:15:25 INFO  iNetBanking:22 - Entered Username
+  2022-10-27 18:15:26 INFO  iNetBanking:24 - Entered Password
+  2022-10-27 18:15:54 INFO  iNetBanking:33 - Add New Customer Page Opened
+  2022-10-27 18:15:55 INFO  iNetBanking:81 - Quiting Driver Done
+  2022-10-27 18:15:55 INFO  iNetBanking:82 - 
+  2022-10-27 18:32:12 INFO  iNetBanking:59 - Chromedriver Setup Done
+  2022-10-27 18:32:38 INFO  iNetBanking:72 - trying opening url
+  2022-10-27 18:32:38 INFO  iNetBanking:13 - Url is Opened
+  2022-10-27 18:32:39 INFO  iNetBanking:18 - Entered Username
+  2022-10-27 18:32:43 INFO  iNetBanking:20 - Entered Password
+  2022-10-27 18:32:50 INFO  iNetBanking:27 - Add New Customer Page Opened
+  2022-10-27 18:32:51 INFO  iNetBanking:81 - Quiting Driver Done
+  2022-10-27 18:32:51 INFO  iNetBanking:82 - 
+  2022-10-27 18:37:27 INFO  iNetBanking:59 - Chromedriver Setup Done
+  2022-10-27 18:37:33 INFO  iNetBanking:72 - trying opening url
+  2022-10-27 18:37:33 INFO  iNetBanking:13 - Url is Opened
+  2022-10-27 18:37:38 INFO  iNetBanking:18 - Entered Username
+  2022-10-27 18:37:38 INFO  iNetBanking:20 - Entered Password
+  2022-10-27 18:39:16 INFO  iNetBanking:59 - Chromedriver Setup Done
+  2022-10-27 18:39:28 INFO  iNetBanking:72 - trying opening url
+  2022-10-27 18:39:29 INFO  iNetBanking:13 - Url is Opened
+  2022-10-27 18:39:30 INFO  iNetBanking:18 - Entered Username
+  2022-10-27 18:39:30 INFO  iNetBanking:20 - Entered Password
+  2022-10-27 18:44:46 INFO  iNetBanking:59 - Chromedriver Setup Done
+  2022-10-27 18:44:54 INFO  iNetBanking:72 - trying opening url
+  2022-10-27 18:44:54 INFO  iNetBanking:13 - Url is Opened
+  2022-10-27 18:44:55 INFO  iNetBanking:18 - Entered Username
+  2022-10-27 18:44:56 INFO  iNetBanking:20 - Entered Password
+  2022-10-27 18:54:31 INFO  iNetBanking:59 - Chromedriver Setup Done
+  2022-10-27 18:54:42 INFO  iNetBanking:72 - trying opening url
+  2022-10-27 18:54:42 INFO  iNetBanking:13 - Url is Opened
+  2022-10-27 18:54:44 INFO  iNetBanking:18 - Entered Username
+  2022-10-27 18:54:44 INFO  iNetBanking:20 - Entered Password
+  2022-10-27 18:54:50 INFO  iNetBanking:23 - Login Button Clicked
+  2022-10-27 18:54:50 INFO  iNetBanking:24 - Into Thread Sleep
+  2022-10-27 18:54:53 INFO  iNetBanking:26 - Out Of thread
+  2022-10-27 18:54:53 INFO  iNetBanking:28 - Creating Driver of AddC
+  2022-10-27 21:22:39 INFO  iNetBanking:59 - Chromedriver Setup Done
+  2022-10-27 21:22:54 INFO  iNetBanking:72 - trying opening url
+  2022-10-27 21:22:54 INFO  iNetBanking:13 - Url is Opened
+  2022-10-27 21:22:55 INFO  iNetBanking:18 - Entered Username
+  2022-10-27 21:22:57 INFO  iNetBanking:20 - Entered Password
+  2022-10-27 21:23:07 INFO  iNetBanking:23 - Login Button Clicked
+  2022-10-27 21:23:07 INFO  iNetBanking:24 - Into Thread Sleep
+  2022-10-27 21:23:10 INFO  iNetBanking:26 - Out Of thread
+  2022-10-27 21:23:10 INFO  iNetBanking:28 - Creating Driver of AddC
+  2022-10-27 21:31:38 INFO  iNetBanking:59 - Chromedriver Setup Done
+  2022-10-27 21:31:45 INFO  iNetBanking:72 - trying opening url
+  2022-10-27 21:31:45 INFO  iNetBanking:13 - Url is Opened
+  2022-10-27 21:31:45 INFO  iNetBanking:16 - Creating Driver of AddC
+  2022-10-27 21:57:12 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-27 21:57:28 INFO  iNetBanking:70 - trying opening url
+  2022-10-27 21:57:28 INFO  iNetBanking:13 - Url is Opened
+  2022-10-27 21:57:29 INFO  iNetBanking:18 - Entered Username
+  2022-10-27 21:57:30 INFO  iNetBanking:20 - Entered Password
+  2022-10-27 21:57:37 INFO  iNetBanking:23 - Login Button Clicked
+  2022-10-27 21:57:37 INFO  iNetBanking:24 - Into Thread Sleep
+  2022-10-27 21:57:40 INFO  iNetBanking:26 - Out Of thread
+  2022-10-27 21:57:40 INFO  iNetBanking:28 - Creating Driver of AddC
+  2022-10-27 22:10:00 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-27 22:10:08 INFO  iNetBanking:70 - trying opening url
+  2022-10-27 22:10:09 INFO  iNetBanking:20 - Url is Opened
+  2022-10-27 22:10:09 INFO  iNetBanking:25 - Entered Username
+  2022-10-27 22:10:10 INFO  iNetBanking:27 - Entered Password
+  2022-10-27 22:10:17 INFO  iNetBanking:30 - Login Button Clicked
+  2022-10-27 22:10:17 INFO  iNetBanking:31 - Into Thread Sleep
+  2022-10-27 22:10:20 INFO  iNetBanking:33 - Out Of thread
+  2022-10-27 22:11:31 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-27 22:11:43 INFO  iNetBanking:70 - trying opening url
+  2022-10-27 22:21:07 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-27 22:21:22 INFO  iNetBanking:70 - trying opening url
+  2022-10-27 22:58:10 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-27 23:01:09 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 16:18:05 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 16:18:33 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 16:40:03 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 16:40:19 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 16:40:19 INFO  iNetBanking:21 - Url is Opened
+  2022-10-28 16:45:27 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 16:45:36 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 16:45:36 INFO  iNetBanking:21 - Url is Opened
+  2022-10-28 16:45:51 INFO  iNetBanking:37 - into manager link
+  2022-10-28 16:46:01 INFO  iNetBanking:39 - out of manager link
+  2022-10-28 16:46:01 INFO  iNetBanking:40 - clicking logout
+  2022-10-28 16:55:28 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 16:55:36 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 16:55:36 INFO  iNetBanking:88 - into getdata 
+  2022-10-28 16:55:44 INFO  iNetBanking:108 - Returned logindata array
+  2022-10-28 16:55:44 INFO  iNetBanking:18 - Url is Opened
+  2022-10-28 16:55:45 INFO  iNetBanking:22 - Username Entered
+  2022-10-28 16:55:45 INFO  iNetBanking:24 - Password Entered
+  2022-10-28 16:55:54 INFO  iNetBanking:53 - Login Passed
+  2022-10-28 16:56:12 INFO  iNetBanking:18 - Url is Opened
+  2022-10-28 16:56:12 INFO  iNetBanking:22 - Username Entered
+  2022-10-28 16:56:12 INFO  iNetBanking:24 - Password Entered
+  2022-10-28 16:56:17 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-28 16:56:34 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-28 16:56:34 INFO  iNetBanking:93 - Screenshot Taken
+  2022-10-28 16:56:34 WARN  iNetBanking:48 - login Failed
+  2022-10-28 16:56:34 INFO  iNetBanking:18 - Url is Opened
+  2022-10-28 16:56:35 INFO  iNetBanking:22 - Username Entered
+  2022-10-28 16:56:35 INFO  iNetBanking:24 - Password Entered
+  2022-10-28 16:56:39 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-28 16:56:57 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-28 16:56:58 INFO  iNetBanking:93 - Screenshot Taken
+  2022-10-28 16:56:58 WARN  iNetBanking:48 - login Failed
+  2022-10-28 16:56:58 INFO  iNetBanking:18 - Url is Opened
+  2022-10-28 16:56:58 INFO  iNetBanking:22 - Username Entered
+  2022-10-28 16:56:59 INFO  iNetBanking:24 - Password Entered
+  2022-10-28 16:57:04 INFO  iNetBanking:53 - Login Passed
+  2022-10-28 16:57:13 INFO  iNetBanking:18 - Url is Opened
+  2022-10-28 16:57:13 INFO  iNetBanking:22 - Username Entered
+  2022-10-28 16:57:13 INFO  iNetBanking:24 - Password Entered
+  2022-10-28 16:57:17 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-28 16:57:23 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-28 16:57:23 INFO  iNetBanking:93 - Screenshot Taken
+  2022-10-28 16:57:23 WARN  iNetBanking:48 - login Failed
+  2022-10-28 17:33:24 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 17:33:35 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 17:33:35 INFO  iNetBanking:17 - Url is Opened
+  2022-10-28 17:33:36 INFO  iNetBanking:22 - Entered Username
+  2022-10-28 17:33:37 INFO  iNetBanking:24 - Entered Password
+  2022-10-28 17:38:14 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 17:38:23 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 17:38:24 INFO  iNetBanking:18 - Url is Opened
+  2022-10-28 17:38:24 INFO  iNetBanking:23 - Entered Username
+  2022-10-28 17:38:25 INFO  iNetBanking:25 - Entered Password
+  2022-10-28 17:53:57 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 17:54:06 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 17:54:06 INFO  iNetBanking:24 - Url is Opened
+  2022-10-28 17:54:07 INFO  iNetBanking:29 - Entered Username
+  2022-10-28 17:54:08 INFO  iNetBanking:31 - Entered Password
+  2022-10-28 17:54:13 INFO  iNetBanking:34 - Login Button Clicked
+  2022-10-28 17:54:13 INFO  iNetBanking:35 - Into Thread Sleep
+  2022-10-28 17:54:16 INFO  iNetBanking:37 - Out Of thread
+  2022-10-28 17:54:16 INFO  iNetBanking:43 - clicking addnewcustomer
+  2022-10-28 17:54:16 INFO  iNetBanking:45 - anc clicked
+  2022-10-28 17:54:16 INFO  iNetBanking:47 - Creating Driver of AddC
+  2022-10-28 18:01:42 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 18:01:52 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 18:01:52 INFO  iNetBanking:24 - Url is Opened
+  2022-10-28 18:01:53 INFO  iNetBanking:29 - Entered Username
+  2022-10-28 18:01:53 INFO  iNetBanking:31 - Entered Password
+  2022-10-28 18:01:57 INFO  iNetBanking:34 - Login Button Clicked
+  2022-10-28 18:01:57 INFO  iNetBanking:35 - Into Thread Sleep
+  2022-10-28 18:02:00 INFO  iNetBanking:37 - Out Of thread
+  2022-10-28 18:02:00 INFO  iNetBanking:43 - clicking addnewcustomer
+  2022-10-28 18:02:01 INFO  iNetBanking:45 - anc clicked
+  2022-10-28 18:02:01 INFO  iNetBanking:47 - Creating Driver of AddC
+  2022-10-28 19:04:25 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 19:04:50 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 19:04:50 INFO  iNetBanking:24 - Url is Opened
+  2022-10-28 19:04:51 INFO  iNetBanking:29 - Entered Username
+  2022-10-28 19:04:52 INFO  iNetBanking:31 - Entered Password
+  2022-10-28 19:05:17 INFO  iNetBanking:34 - Login Button Clicked
+  2022-10-28 19:05:17 INFO  iNetBanking:35 - Into Thread Sleep
+  2022-10-28 19:05:20 INFO  iNetBanking:37 - Out Of thread
+  2022-10-28 19:05:20 INFO  iNetBanking:43 - clicking addnewcustomer
+  2022-10-28 19:05:21 INFO  iNetBanking:45 - anc clicked
+  2022-10-28 19:05:21 INFO  iNetBanking:47 - Creating Driver of AddC
+  2022-10-28 19:17:19 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 19:17:24 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 19:17:24 INFO  iNetBanking:24 - Url is Opened
+  2022-10-28 19:17:26 INFO  iNetBanking:29 - Entered Username
+  2022-10-28 19:17:26 INFO  iNetBanking:31 - Entered Password
+  2022-10-28 19:17:31 INFO  iNetBanking:34 - Login Button Clicked
+  2022-10-28 19:17:31 INFO  iNetBanking:35 - Into Thread Sleep
+  2022-10-28 19:17:34 INFO  iNetBanking:37 - Out Of thread
+  2022-10-28 19:17:34 INFO  iNetBanking:43 - Creating Driver of AddC
+  2022-10-28 19:30:53 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 19:30:58 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 19:30:58 INFO  iNetBanking:24 - Url is Opened
+  2022-10-28 19:30:58 INFO  iNetBanking:29 - Entered Username
+  2022-10-28 19:30:59 INFO  iNetBanking:31 - Entered Password
+  2022-10-28 19:31:01 INFO  iNetBanking:34 - Login Button Clicked
+  2022-10-28 19:31:01 INFO  iNetBanking:35 - Into Thread Sleep
+  2022-10-28 19:31:04 INFO  iNetBanking:37 - Out Of thread
+  2022-10-28 19:31:04 INFO  iNetBanking:43 - Creating Driver of AddC
+  2022-10-28 19:53:44 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 19:54:17 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 19:54:17 INFO  iNetBanking:19 - Chrome setup start
+  2022-10-28 19:54:35 INFO  iNetBanking:21 - Chrome setup ok
+  2022-10-28 19:59:20 INFO  iNetBanking:27 - Chrome setup start
+  2022-10-28 19:59:31 INFO  iNetBanking:29 - Chrome setup ok
+  2022-10-28 21:45:41 INFO  iNetBanking:28 - Chrome setup start
+  2022-10-28 21:45:56 INFO  iNetBanking:30 - Chrome setup ok
+  2022-10-28 21:45:56 INFO  iNetBanking:43 - Creating AddCust Object
+  2022-10-28 21:45:56 INFO  iNetBanking:45 - AddCust Object Created
+  2022-10-28 21:46:02 INFO  iNetBanking:47 - Url Opened
+  2022-10-28 21:55:50 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 21:56:17 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 21:56:17 INFO  iNetBanking:28 - Chrome setup start
+  2022-10-28 21:56:23 INFO  iNetBanking:30 - Chrome setup ok
+  2022-10-28 21:56:23 INFO  iNetBanking:43 - Creating AddCust Object
+  2022-10-28 21:56:24 INFO  iNetBanking:45 - AddCust Object Created
+  2022-10-28 21:57:34 INFO  iNetBanking:47 - Url Opened
+  2022-10-28 22:04:56 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:05:26 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 22:05:26 INFO  iNetBanking:29 - Chrome setup start
+  2022-10-28 22:05:29 INFO  iNetBanking:31 - Chrome setup ok
+  2022-10-28 22:05:29 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-28 22:09:00 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:09:12 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 22:09:12 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-28 22:09:13 INFO  iNetBanking:38 - Entered Username
+  2022-10-28 22:09:14 INFO  iNetBanking:40 - Entered Password
+  2022-10-28 22:09:18 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-28 22:09:18 INFO  iNetBanking:55 - Creating AddCust Object
+  2022-10-28 22:09:18 INFO  iNetBanking:57 - AddCust Object Created
+  2022-10-28 22:09:22 INFO  iNetBanking:59 - Url Opened
+  2022-10-28 22:14:15 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:14:34 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 22:14:34 INFO  iNetBanking:24 - Url is Opened
+  2022-10-28 22:14:34 INFO  iNetBanking:29 - Entered Username
+  2022-10-28 22:14:35 INFO  iNetBanking:31 - Entered Password
+  2022-10-28 22:14:35 INFO  iNetBanking:34 - Login Button Clicked
+  2022-10-28 22:14:35 INFO  iNetBanking:43 - Creating Driver of AddC
+  2022-10-28 22:16:01 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:16:12 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 22:16:12 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-28 22:16:13 INFO  iNetBanking:38 - Entered Username
+  2022-10-28 22:16:15 INFO  iNetBanking:40 - Entered Password
+  2022-10-28 22:16:19 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-28 22:16:19 INFO  iNetBanking:55 - Creating AddCust Object
+  2022-10-28 22:16:19 INFO  iNetBanking:57 - AddCust Object Created
+  2022-10-28 22:16:23 INFO  iNetBanking:59 - Url Opened
+  2022-10-28 22:20:28 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:20:32 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 22:20:32 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-28 22:20:35 INFO  iNetBanking:38 - Entered Username
+  2022-10-28 22:20:36 INFO  iNetBanking:40 - Entered Password
+  2022-10-28 22:20:39 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-28 22:20:40 INFO  iNetBanking:55 - Creating AddCust Object
+  2022-10-28 22:20:40 INFO  iNetBanking:57 - AddCust Object Created
+  2022-10-28 22:22:07 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:22:14 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 22:22:14 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-28 22:22:15 INFO  iNetBanking:38 - Entered Username
+  2022-10-28 22:22:16 INFO  iNetBanking:40 - Entered Password
+  2022-10-28 22:22:21 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-28 22:22:21 INFO  iNetBanking:55 - Creating AddCust Object
+  2022-10-28 22:22:21 INFO  iNetBanking:57 - AddCust Object Created
+  2022-10-28 22:33:17 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:33:27 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 22:33:27 INFO  iNetBanking:17 - Url is Opened
+  2022-10-28 22:33:28 INFO  iNetBanking:22 - Entered Username
+  2022-10-28 22:33:30 INFO  iNetBanking:24 - Entered Password
+  2022-10-28 22:33:34 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-28 22:33:34 INFO  iNetBanking:31 - Creating ACP object
+  2022-10-28 22:34:51 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:34:59 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 22:35:00 INFO  iNetBanking:17 - Url is Opened
+  2022-10-28 22:35:02 INFO  iNetBanking:22 - Entered Username
+  2022-10-28 22:35:02 INFO  iNetBanking:24 - Entered Password
+  2022-10-28 22:35:06 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-28 22:35:06 INFO  iNetBanking:31 - Creating ACP object
+  2022-10-28 22:37:55 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:43:57 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 22:44:12 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 22:44:12 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-28 22:44:12 INFO  iNetBanking:38 - Entered Username
+  2022-10-28 22:44:13 INFO  iNetBanking:40 - Entered Password
+  2022-10-28 22:44:17 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-28 22:44:17 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-28 23:12:48 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 23:12:58 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 23:12:58 INFO  iNetBanking:17 - Url is Opened
+  2022-10-28 23:12:58 INFO  iNetBanking:22 - Entered Username
+  2022-10-28 23:12:59 INFO  iNetBanking:24 - Entered Password
+  2022-10-28 23:13:05 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-28 23:13:05 INFO  iNetBanking:31 - Creating ACP object
+  2022-10-28 23:13:05 INFO  iNetBanking:33 - ACP object Created
+  2022-10-28 23:13:05 INFO  iNetBanking:36 - Add New Customer Page Opened
+  2022-10-28 23:13:05 INFO  iNetBanking:39 - Customer Name Set done
+  2022-10-28 23:27:05 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 23:28:07 INFO  iNetBanking:70 - trying opening url
+  2022-10-28 23:28:07 INFO  iNetBanking:17 - Url is Opened
+  2022-10-28 23:28:07 INFO  iNetBanking:22 - Entered Username
+  2022-10-28 23:28:08 INFO  iNetBanking:24 - Entered Password
+  2022-10-28 23:28:13 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-28 23:28:13 INFO  iNetBanking:31 - Creating ACP object
+  2022-10-28 23:28:13 INFO  iNetBanking:33 - ACP object Created
+  2022-10-28 23:28:15 INFO  iNetBanking:36 - Add New Customer Page Opened
+  2022-10-28 23:40:04 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 23:41:17 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 23:42:15 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-28 23:59:45 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 00:06:30 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 00:13:04 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 00:13:34 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 00:13:34 INFO  iNetBanking:17 - Url is Opened
+  2022-10-29 00:13:35 INFO  iNetBanking:22 - Entered Username
+  2022-10-29 00:13:35 INFO  iNetBanking:24 - Entered Password
+  2022-10-29 00:13:59 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-29 00:13:59 INFO  iNetBanking:31 - Creating ACP object
+  2022-10-29 00:13:59 INFO  iNetBanking:33 - ACP object Created
+  2022-10-29 00:13:59 INFO  iNetBanking:36 - Add New Customer Page Opened
+  2022-10-29 13:38:39 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 13:38:45 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 13:38:45 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-29 13:38:47 INFO  iNetBanking:38 - Entered Username
+  2022-10-29 13:38:48 INFO  iNetBanking:40 - Entered Password
+  2022-10-29 13:39:01 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-29 13:39:01 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-29 13:39:01 INFO  iNetBanking:67 - ACP object Created
+  2022-10-29 13:39:01 INFO  iNetBanking:70 - Add New Customer Page Opened
+  2022-10-29 13:39:01 INFO  iNetBanking:72 - Refreshing Page
+  2022-10-29 13:39:01 INFO  iNetBanking:74 - Refresh Page Done
+  2022-10-29 13:39:01 INFO  iNetBanking:76 - Seting Customer Name
+  2022-10-29 13:41:21 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 13:41:49 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 13:41:49 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-29 13:41:50 INFO  iNetBanking:38 - Entered Username
+  2022-10-29 13:41:50 INFO  iNetBanking:40 - Entered Password
+  2022-10-29 13:41:51 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-29 13:41:51 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-29 13:41:51 INFO  iNetBanking:67 - ACP object Created
+  2022-10-29 13:47:08 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 13:47:16 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 13:47:16 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-29 13:47:20 INFO  iNetBanking:38 - Entered Username
+  2022-10-29 13:47:21 INFO  iNetBanking:40 - Entered Password
+  2022-10-29 13:47:25 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-29 13:47:25 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-29 13:47:25 INFO  iNetBanking:67 - ACP object Created
+  2022-10-29 13:47:28 INFO  iNetBanking:70 - Add New Customer Page Opened
+  2022-10-29 13:47:28 INFO  iNetBanking:72 - Refreshing Page
+  2022-10-29 13:47:31 INFO  iNetBanking:74 - Refresh Page Done
+  2022-10-29 13:47:31 INFO  iNetBanking:76 - Refreshing Page2
+  2022-10-29 13:47:58 INFO  iNetBanking:78 - Refresh Page Done2
+  2022-10-29 13:47:58 INFO  iNetBanking:80 - Seting Customer Name
+  2022-10-29 13:59:20 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 13:59:33 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 13:59:33 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-29 13:59:34 INFO  iNetBanking:38 - Entered Username
+  2022-10-29 13:59:34 INFO  iNetBanking:40 - Entered Password
+  2022-10-29 13:59:38 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-29 13:59:38 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-29 13:59:38 INFO  iNetBanking:67 - ACP object Created
+  2022-10-29 13:59:38 INFO  iNetBanking:69 - clicking add new cust link
+  2022-10-29 13:59:40 INFO  iNetBanking:71 - ADNewCust clicked
+  2022-10-29 13:59:40 INFO  iNetBanking:73 - Finding Google Add Iframe
+  2022-10-29 14:02:16 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:02:25 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:02:25 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-29 14:02:26 INFO  iNetBanking:38 - Entered Username
+  2022-10-29 14:02:27 INFO  iNetBanking:40 - Entered Password
+  2022-10-29 14:02:30 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-29 14:02:30 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-29 14:02:30 INFO  iNetBanking:67 - ACP object Created
+  2022-10-29 14:02:30 INFO  iNetBanking:69 - clicking add new cust link
+  2022-10-29 14:02:30 INFO  iNetBanking:71 - ADNewCust clicked
+  2022-10-29 14:02:30 INFO  iNetBanking:73 - Finding Google Add Iframe
+  2022-10-29 14:02:33 INFO  iNetBanking:75 - G ADv iframe Found
+  2022-10-29 14:02:34 INFO  iNetBanking:77 - Switeched to gad iframe
+  2022-10-29 14:02:34 INFO  iNetBanking:79 - ad iframe found
+  2022-10-29 14:02:35 INFO  iNetBanking:81 - switched to frame 2
+  2022-10-29 14:02:37 INFO  iNetBanking:83 - dismiss buton clicked
+  2022-10-29 14:02:39 INFO  iNetBanking:85 - switched to default content
+  2022-10-29 14:02:44 INFO  iNetBanking:97 - Seting Customer Name
+  2022-10-29 14:02:44 INFO  iNetBanking:99 - Customer Name Set done
+  2022-10-29 14:03:41 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:03:46 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:03:46 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-29 14:03:47 INFO  iNetBanking:38 - Entered Username
+  2022-10-29 14:03:48 INFO  iNetBanking:40 - Entered Password
+  2022-10-29 14:03:52 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-29 14:03:52 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-29 14:03:52 INFO  iNetBanking:67 - ACP object Created
+  2022-10-29 14:03:52 INFO  iNetBanking:69 - clicking add new cust link
+  2022-10-29 14:03:53 INFO  iNetBanking:71 - ADNewCust clicked
+  2022-10-29 14:03:53 INFO  iNetBanking:73 - Finding Google Add Iframe
+  2022-10-29 14:03:53 INFO  iNetBanking:75 - G ADv iframe Found
+  2022-10-29 14:03:53 INFO  iNetBanking:77 - Switeched to gad iframe
+  2022-10-29 14:03:53 INFO  iNetBanking:79 - ad iframe found
+  2022-10-29 14:03:54 INFO  iNetBanking:81 - switched to frame 2
+  2022-10-29 14:03:55 INFO  iNetBanking:83 - dismiss buton clicked
+  2022-10-29 14:03:57 INFO  iNetBanking:85 - switched to default content
+  2022-10-29 14:04:02 INFO  iNetBanking:97 - Seting Customer Name
+  2022-10-29 14:04:02 INFO  iNetBanking:99 - Customer Name Set done
+  2022-10-29 14:05:02 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:05:10 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:05:10 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-29 14:05:10 INFO  iNetBanking:38 - Entered Username
+  2022-10-29 14:05:11 INFO  iNetBanking:40 - Entered Password
+  2022-10-29 14:05:12 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-29 14:05:12 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-29 14:05:12 INFO  iNetBanking:67 - ACP object Created
+  2022-10-29 14:05:12 INFO  iNetBanking:69 - clicking add new cust link
+  2022-10-29 14:05:13 INFO  iNetBanking:71 - ADNewCust clicked
+  2022-10-29 14:05:13 INFO  iNetBanking:73 - Finding Google Add Iframe
+  2022-10-29 14:06:24 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:06:53 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:06:54 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-29 14:06:54 INFO  iNetBanking:38 - Entered Username
+  2022-10-29 14:06:54 INFO  iNetBanking:40 - Entered Password
+  2022-10-29 14:06:55 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-29 14:06:55 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-29 14:06:55 INFO  iNetBanking:67 - ACP object Created
+  2022-10-29 14:06:55 INFO  iNetBanking:69 - clicking add new cust link
+  2022-10-29 14:24:08 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:28:46 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:29:16 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:29:17 INFO  iNetBanking:34 - Creating Loginpage object
+  2022-10-29 14:29:17 INFO  iNetBanking:38 - Entered Username
+  2022-10-29 14:29:17 INFO  iNetBanking:40 - Entered Password
+  2022-10-29 14:29:26 INFO  iNetBanking:43 - Login Button Clicked
+  2022-10-29 14:29:26 INFO  iNetBanking:65 - Creating ACP object
+  2022-10-29 14:29:26 INFO  iNetBanking:67 - ACP object Created
+  2022-10-29 14:29:26 INFO  iNetBanking:69 - clicking add new cust link
+  2022-10-29 14:29:27 INFO  iNetBanking:71 - ADNewCust clicked
+  2022-10-29 14:29:30 INFO  iNetBanking:75 - Refreshing Page
+  2022-10-29 14:29:34 INFO  iNetBanking:77 - Refresh Page Done
+  2022-10-29 14:29:34 INFO  iNetBanking:79 - Refreshing Page2
+  2022-10-29 14:29:37 INFO  iNetBanking:81 - Refresh Page Done2
+  2022-10-29 14:29:37 INFO  iNetBanking:83 - Finding Google Add Iframe
+  2022-10-29 14:38:18 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:38:25 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:38:26 INFO  iNetBanking:35 - Creating Loginpage object
+  2022-10-29 14:38:29 INFO  iNetBanking:39 - Entered Username
+  2022-10-29 14:38:30 INFO  iNetBanking:41 - Entered Password
+  2022-10-29 14:38:33 INFO  iNetBanking:44 - Login Button Clicked
+  2022-10-29 14:38:33 INFO  iNetBanking:66 - Creating ACP object
+  2022-10-29 14:38:33 INFO  iNetBanking:68 - ACP object Created
+  2022-10-29 14:38:33 INFO  iNetBanking:70 - clicking add new cust link
+  2022-10-29 14:38:39 INFO  iNetBanking:72 - ADNewCust clicked
+  2022-10-29 14:38:42 INFO  iNetBanking:76 - Refreshing Page
+  2022-10-29 14:38:47 INFO  iNetBanking:78 - Refresh Page Done
+  2022-10-29 14:38:47 INFO  iNetBanking:80 - Refreshing Page2
+  2022-10-29 14:38:50 INFO  iNetBanking:82 - Refresh Page Done2
+  2022-10-29 14:38:50 INFO  iNetBanking:85 - Finding Google Add Iframe
+  2022-10-29 14:38:50 INFO  iNetBanking:87 - G ADv iframe Found
+  2022-10-29 14:38:50 INFO  iNetBanking:89 - Switeched to gad iframe
+  2022-10-29 14:38:51 INFO  iNetBanking:91 - ad iframe found
+  2022-10-29 14:38:51 INFO  iNetBanking:93 - switched to frame 2
+  2022-10-29 14:40:10 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:40:38 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:40:38 INFO  iNetBanking:35 - Creating Loginpage object
+  2022-10-29 14:40:39 INFO  iNetBanking:39 - Entered Username
+  2022-10-29 14:40:40 INFO  iNetBanking:41 - Entered Password
+  2022-10-29 14:40:40 INFO  iNetBanking:44 - Login Button Clicked
+  2022-10-29 14:40:40 INFO  iNetBanking:66 - Creating ACP object
+  2022-10-29 14:40:40 INFO  iNetBanking:68 - ACP object Created
+  2022-10-29 14:40:40 INFO  iNetBanking:70 - clicking add new cust link
+  2022-10-29 14:43:08 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:43:15 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:43:16 INFO  iNetBanking:35 - Creating Loginpage object
+  2022-10-29 14:43:18 INFO  iNetBanking:39 - Entered Username
+  2022-10-29 14:43:18 INFO  iNetBanking:41 - Entered Password
+  2022-10-29 14:43:23 INFO  iNetBanking:44 - Login Button Clicked
+  2022-10-29 14:43:23 INFO  iNetBanking:66 - Creating ACP object
+  2022-10-29 14:43:23 INFO  iNetBanking:68 - ACP object Created
+  2022-10-29 14:43:23 INFO  iNetBanking:70 - clicking add new cust link
+  2022-10-29 14:43:24 INFO  iNetBanking:72 - ADNewCust clicked
+  2022-10-29 14:43:24 INFO  iNetBanking:74 - clicking add new cust link2
+  2022-10-29 14:49:01 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:49:25 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:49:25 INFO  iNetBanking:35 - Creating Loginpage object
+  2022-10-29 14:49:27 INFO  iNetBanking:39 - Entered Username
+  2022-10-29 14:49:28 INFO  iNetBanking:41 - Entered Password
+  2022-10-29 14:49:33 INFO  iNetBanking:44 - Login Button Clicked
+  2022-10-29 14:49:33 INFO  iNetBanking:66 - Creating ACP object
+  2022-10-29 14:49:33 INFO  iNetBanking:68 - ACP object Created
+  2022-10-29 14:49:33 INFO  iNetBanking:70 - clicking add new cust link
+  2022-10-29 14:49:35 INFO  iNetBanking:72 - ADNewCust clicked
+  2022-10-29 14:49:41 INFO  iNetBanking:79 - Refreshing Page
+  2022-10-29 14:49:43 INFO  iNetBanking:81 - Refresh Page Done
+  2022-10-29 14:49:43 INFO  iNetBanking:83 - Refreshing Page2
+  2022-10-29 14:49:47 INFO  iNetBanking:85 - Refresh Page Done2
+  2022-10-29 14:49:47 INFO  iNetBanking:88 - Finding Google Add Iframe
+  2022-10-29 14:49:47 INFO  iNetBanking:112 - Seting Customer Name
+  2022-10-29 14:49:48 INFO  iNetBanking:114 - Customer Name Set done
+  2022-10-29 14:50:28 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:50:38 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:50:39 INFO  iNetBanking:35 - Creating Loginpage object
+  2022-10-29 14:50:39 INFO  iNetBanking:39 - Entered Username
+  2022-10-29 14:50:39 INFO  iNetBanking:41 - Entered Password
+  2022-10-29 14:50:43 INFO  iNetBanking:44 - Login Button Clicked
+  2022-10-29 14:50:43 INFO  iNetBanking:66 - Creating ACP object
+  2022-10-29 14:50:43 INFO  iNetBanking:68 - ACP object Created
+  2022-10-29 14:50:43 INFO  iNetBanking:70 - clicking add new cust link
+  2022-10-29 14:50:46 INFO  iNetBanking:72 - ADNewCust clicked
+  2022-10-29 14:50:55 INFO  iNetBanking:79 - Refreshing Page
+  2022-10-29 14:50:58 INFO  iNetBanking:81 - Refresh Page Done
+  2022-10-29 14:50:58 INFO  iNetBanking:83 - Refreshing Page2
+  2022-10-29 14:51:12 INFO  iNetBanking:85 - Refresh Page Done2
+  2022-10-29 14:51:12 INFO  iNetBanking:88 - Finding Google Add Iframe
+  2022-10-29 14:51:12 INFO  iNetBanking:90 - G ADv iframe Found
+  2022-10-29 14:51:12 INFO  iNetBanking:92 - Switeched to gad iframe
+  2022-10-29 14:51:12 INFO  iNetBanking:94 - ad iframe found
+  2022-10-29 14:51:12 INFO  iNetBanking:96 - switched to frame 2
+  2022-10-29 14:52:53 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:52:57 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:52:58 INFO  iNetBanking:35 - Creating Loginpage object
+  2022-10-29 14:53:00 INFO  iNetBanking:39 - Entered Username
+  2022-10-29 14:53:02 INFO  iNetBanking:41 - Entered Password
+  2022-10-29 14:53:06 INFO  iNetBanking:44 - Login Button Clicked
+  2022-10-29 14:53:06 INFO  iNetBanking:66 - Creating ACP object
+  2022-10-29 14:53:06 INFO  iNetBanking:68 - ACP object Created
+  2022-10-29 14:53:06 INFO  iNetBanking:70 - clicking add new cust link
+  2022-10-29 14:53:06 INFO  iNetBanking:72 - ADNewCust clicked
+  2022-10-29 14:53:13 INFO  iNetBanking:114 - Seting Customer Name
+  2022-10-29 14:53:13 INFO  iNetBanking:116 - Customer Name Set done
+  2022-10-29 14:53:43 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:53:49 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:53:50 INFO  iNetBanking:35 - Creating Loginpage object
+  2022-10-29 14:53:50 INFO  iNetBanking:39 - Entered Username
+  2022-10-29 14:53:51 INFO  iNetBanking:41 - Entered Password
+  2022-10-29 14:53:55 INFO  iNetBanking:44 - Login Button Clicked
+  2022-10-29 14:53:55 INFO  iNetBanking:66 - Creating ACP object
+  2022-10-29 14:53:55 INFO  iNetBanking:68 - ACP object Created
+  2022-10-29 14:53:55 INFO  iNetBanking:70 - clicking add new cust link
+  2022-10-29 14:53:57 INFO  iNetBanking:72 - ADNewCust clicked
+  2022-10-29 14:54:02 INFO  iNetBanking:114 - Seting Customer Name
+  2022-10-29 14:54:03 INFO  iNetBanking:116 - Customer Name Set done
+  2022-10-29 14:54:30 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:55:02 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:55:02 INFO  iNetBanking:35 - Creating Loginpage object
+  2022-10-29 14:55:02 INFO  iNetBanking:39 - Entered Username
+  2022-10-29 14:55:03 INFO  iNetBanking:41 - Entered Password
+  2022-10-29 14:55:08 INFO  iNetBanking:44 - Login Button Clicked
+  2022-10-29 14:55:08 INFO  iNetBanking:66 - Creating ACP object
+  2022-10-29 14:55:08 INFO  iNetBanking:68 - ACP object Created
+  2022-10-29 14:55:08 INFO  iNetBanking:70 - clicking add new cust link
+  2022-10-29 14:55:08 INFO  iNetBanking:72 - ADNewCust clicked
+  2022-10-29 14:55:13 INFO  iNetBanking:114 - Seting Customer Name
+  2022-10-29 14:55:14 INFO  iNetBanking:116 - Customer Name Set done
+  2022-10-29 14:55:39 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:55:45 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:55:46 INFO  iNetBanking:35 - Creating Loginpage object
+  2022-10-29 14:55:48 INFO  iNetBanking:39 - Entered Username
+  2022-10-29 14:55:48 INFO  iNetBanking:41 - Entered Password
+  2022-10-29 14:55:56 INFO  iNetBanking:44 - Login Button Clicked
+  2022-10-29 14:55:56 INFO  iNetBanking:66 - Creating ACP object
+  2022-10-29 14:55:56 INFO  iNetBanking:68 - ACP object Created
+  2022-10-29 14:55:56 INFO  iNetBanking:70 - clicking add new cust link
+  2022-10-29 14:55:56 INFO  iNetBanking:72 - ADNewCust clicked
+  2022-10-29 14:56:04 INFO  iNetBanking:114 - Seting Customer Name
+  2022-10-29 14:56:04 INFO  iNetBanking:116 - Customer Name Set done
+  2022-10-29 14:58:00 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 14:58:10 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 14:58:10 INFO  iNetBanking:17 - Url is Opened
+  2022-10-29 14:58:10 INFO  iNetBanking:22 - Entered Username
+  2022-10-29 14:58:11 INFO  iNetBanking:24 - Entered Password
+  2022-10-29 14:58:14 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-29 14:58:14 INFO  iNetBanking:31 - Creating ACP object
+  2022-10-29 14:58:14 INFO  iNetBanking:33 - ACP object Created
+  2022-10-29 14:58:14 INFO  iNetBanking:36 - ADNewCust clicked
+  2022-10-29 14:58:20 INFO  iNetBanking:46 - Customer Name Set done
+  2022-10-29 14:58:25 INFO  iNetBanking:59 - Add Customer Button Clicked
+  2022-10-29 14:58:25 INFO  iNetBanking:66 - Add Customer Test Succcess
+  2022-10-29 15:04:47 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 15:04:58 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 15:04:58 INFO  iNetBanking:17 - Url is Opened
+  2022-10-29 15:04:59 INFO  iNetBanking:22 - Entered Username
+  2022-10-29 15:04:59 INFO  iNetBanking:24 - Entered Password
+  2022-10-29 15:05:02 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-29 15:05:02 INFO  iNetBanking:31 - Creating ACP object
+  2022-10-29 15:05:02 INFO  iNetBanking:33 - ACP object Created
+  2022-10-29 15:05:02 INFO  iNetBanking:36 - ADNewCust clicked
+  2022-10-29 15:05:11 INFO  iNetBanking:46 - Customer Name Set done
+  2022-10-29 15:05:37 INFO  iNetBanking:59 - Add Customer Button Clicked
+  2022-10-29 15:05:37 INFO  iNetBanking:66 - Add Customer Test Succcess
+  2022-10-29 15:25:28 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 15:25:37 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 15:25:37 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 15:25:38 INFO  iNetBanking:23 - Entered Username
+  2022-10-29 15:25:39 INFO  iNetBanking:25 - Entered Password
+  2022-10-29 15:25:41 INFO  iNetBanking:33 - Login test Passed
+  2022-10-29 15:25:45 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 15:25:56 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 15:25:57 INFO  iNetBanking:88 - into getdata 
+  2022-10-29 15:26:07 INFO  iNetBanking:108 - Returned logindata array
+  2022-10-29 15:26:07 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 15:26:08 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 15:26:08 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 15:26:17 INFO  iNetBanking:53 - Login Passed
+  2022-10-29 15:26:30 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 15:26:32 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 15:26:32 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 15:26:37 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-29 15:26:42 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-29 15:26:43 INFO  iNetBanking:94 - Screenshot Taken
+  2022-10-29 15:26:43 WARN  iNetBanking:48 - login Failed
+  2022-10-29 15:26:43 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 15:26:44 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 15:26:44 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 15:26:48 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-29 15:27:10 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-29 15:27:10 INFO  iNetBanking:94 - Screenshot Taken
+  2022-10-29 15:27:10 WARN  iNetBanking:48 - login Failed
+  2022-10-29 15:27:10 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 15:27:11 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 15:27:11 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 15:27:18 INFO  iNetBanking:53 - Login Passed
+  2022-10-29 15:27:25 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 15:27:25 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 15:27:26 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 15:27:30 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-29 15:27:33 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-29 15:27:33 INFO  iNetBanking:94 - Screenshot Taken
+  2022-10-29 15:27:33 WARN  iNetBanking:48 - login Failed
+  2022-10-29 15:27:38 INFO  iNetBanking:57 - Chromedriver Setup Done
+  2022-10-29 15:27:52 INFO  iNetBanking:70 - trying opening url
+  2022-10-29 15:27:53 INFO  iNetBanking:17 - Url is Opened
+  2022-10-29 15:27:54 INFO  iNetBanking:22 - Entered Username
+  2022-10-29 15:27:55 INFO  iNetBanking:24 - Entered Password
+  2022-10-29 15:28:18 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-29 15:28:18 INFO  iNetBanking:31 - Creating ACP object
+  2022-10-29 15:28:18 INFO  iNetBanking:33 - ACP object Created
+  2022-10-29 15:28:18 INFO  iNetBanking:36 - ADNewCust clicked
+  2022-10-29 15:28:26 INFO  iNetBanking:46 - Customer Name Set done
+  2022-10-29 15:28:31 INFO  iNetBanking:59 - Add Customer Button Clicked
+  2022-10-29 15:28:31 INFO  iNetBanking:66 - Add Customer Test Succcess
+  2022-10-29 22:51:53 INFO  iNetBanking:54 - 
+  2022-10-29 22:54:00 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-29 22:54:18 INFO  iNetBanking:73 - trying opening url
+  2022-10-29 22:54:18 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 22:54:18 INFO  iNetBanking:23 - Entered Username
+  2022-10-29 22:54:19 INFO  iNetBanking:25 - Entered Password
+  2022-10-29 22:54:22 INFO  iNetBanking:32 - Login test Passed
+  2022-10-29 22:54:23 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-29 22:54:23 INFO  iNetBanking:85 - 
+  2022-10-29 22:54:23 INFO  iNetBanking:54 - 
+  2022-10-29 22:54:26 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-29 22:54:38 INFO  iNetBanking:73 - trying opening url
+  2022-10-29 22:54:38 INFO  iNetBanking:88 - into getdata 
+  2022-10-29 22:54:43 INFO  iNetBanking:108 - Returned logindata array
+  2022-10-29 22:54:43 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 22:54:44 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 22:54:44 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 22:54:51 INFO  iNetBanking:53 - Login Passed
+  2022-10-29 22:55:01 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 22:55:01 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 22:55:01 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 22:55:05 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-29 22:55:11 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-29 22:55:12 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-29 22:55:12 WARN  iNetBanking:48 - login Failed
+  2022-10-29 22:55:12 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 22:55:12 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 22:55:13 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 22:55:18 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-29 22:55:22 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-29 22:55:22 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-29 22:55:22 WARN  iNetBanking:48 - login Failed
+  2022-10-29 22:55:22 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 22:55:23 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 22:55:23 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 22:55:30 INFO  iNetBanking:53 - Login Passed
+  2022-10-29 22:55:43 INFO  iNetBanking:18 - Url is Opened
+  2022-10-29 22:55:43 INFO  iNetBanking:22 - Username Entered
+  2022-10-29 22:55:43 INFO  iNetBanking:24 - Password Entered
+  2022-10-29 22:55:52 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-29 22:55:57 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-29 22:55:57 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-29 22:55:57 WARN  iNetBanking:48 - login Failed
+  2022-10-29 22:55:58 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-29 22:55:58 INFO  iNetBanking:85 - 
+  2022-10-29 22:55:58 INFO  iNetBanking:54 - 
+  2022-10-29 22:56:01 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-29 22:56:17 INFO  iNetBanking:73 - trying opening url
+  2022-10-29 22:56:17 INFO  iNetBanking:17 - Url is Opened
+  2022-10-29 22:56:18 INFO  iNetBanking:22 - Entered Username
+  2022-10-29 22:56:18 INFO  iNetBanking:24 - Entered Password
+  2022-10-29 22:56:21 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-29 22:56:21 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-10-29 22:56:22 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-10-29 22:56:30 INFO  iNetBanking:42 - Customer Name Set done
+  2022-10-29 22:56:38 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-10-29 22:56:38 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-10-29 22:56:39 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-29 22:56:39 INFO  iNetBanking:85 - 
+  2022-10-31 07:37:34 INFO  iNetBanking:54 - 
+  2022-10-31 07:39:26 INFO  iNetBanking:54 - 
+  2022-10-31 07:39:51 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 07:40:04 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 07:40:05 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 07:40:06 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 07:40:07 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 07:40:11 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 07:40:12 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 07:40:12 INFO  iNetBanking:85 - 
+  2022-10-31 07:40:32 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 07:40:37 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 07:40:37 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 07:40:40 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 07:40:41 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 07:40:45 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 07:40:45 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 07:40:45 INFO  iNetBanking:85 - 
+  2022-10-31 07:41:16 INFO  iNetBanking:54 - 
+  2022-10-31 07:41:22 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 07:41:36 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 07:41:36 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 07:41:37 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 07:41:37 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 07:41:42 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 07:41:42 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 07:41:42 INFO  iNetBanking:85 - 
+  2022-10-31 08:02:32 INFO  iNetBanking:54 - 
+  2022-10-31 08:02:47 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 08:03:04 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 08:03:05 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 08:03:07 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 08:03:08 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 08:03:20 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 08:03:20 INFO  iNetBanking:37 - Login test Failed
+  2022-10-31 08:03:21 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 08:03:21 INFO  iNetBanking:85 - 
+  2022-10-31 08:06:17 INFO  iNetBanking:54 - 
+  2022-10-31 08:06:23 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 08:06:34 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 08:06:34 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 08:06:34 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 08:06:35 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 08:06:38 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 08:06:39 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 08:06:39 INFO  iNetBanking:85 - 
+  2022-10-31 08:11:17 INFO  iNetBanking:54 - 
+  2022-10-31 08:11:24 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 08:11:35 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 08:11:35 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 08:11:36 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 08:11:36 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 08:11:39 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 08:11:40 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 08:11:40 INFO  iNetBanking:85 - 
+  2022-10-31 08:38:33 INFO  iNetBanking:54 - 
+  2022-10-31 08:38:51 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 08:39:19 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 08:39:19 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 08:39:20 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 08:39:21 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 08:39:29 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 08:39:30 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 08:39:30 INFO  iNetBanking:85 - 
+  2022-10-31 09:13:59 INFO  iNetBanking:54 - 
+  2022-10-31 09:14:25 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 09:14:49 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 09:14:49 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 09:14:51 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 09:14:51 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 09:15:05 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 09:15:08 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 09:15:08 INFO  iNetBanking:85 - 
+  2022-10-31 09:15:26 INFO  iNetBanking:54 - 
+  2022-10-31 09:15:38 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 09:15:53 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 09:15:53 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 09:15:55 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 09:15:56 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 09:16:00 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 09:16:02 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 09:16:02 INFO  iNetBanking:85 - 
+  2022-10-31 09:21:22 INFO  iNetBanking:54 - 
+  2022-10-31 09:21:33 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 09:21:48 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 09:21:48 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 09:21:52 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 09:21:52 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 09:21:57 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 09:21:58 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 09:21:58 INFO  iNetBanking:85 - 
+  2022-10-31 09:52:44 INFO  iNetBanking:54 - 
+  2022-10-31 09:52:58 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 09:53:07 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 09:53:07 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 09:53:12 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 09:53:12 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 09:53:18 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 09:53:20 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 09:53:20 INFO  iNetBanking:85 - 
+  2022-10-31 09:54:04 INFO  iNetBanking:54 - 
+  2022-10-31 09:54:14 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 09:54:25 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 09:54:26 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 09:54:29 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 09:54:29 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 09:54:35 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 09:54:36 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 09:54:36 INFO  iNetBanking:85 - 
+  2022-10-31 09:55:36 INFO  iNetBanking:54 - 
+  2022-10-31 09:55:46 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 09:55:55 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 09:55:55 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 09:55:57 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 09:55:57 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 09:56:03 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 09:56:05 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 09:56:05 INFO  iNetBanking:85 - 
+  2022-10-31 09:59:07 INFO  iNetBanking:54 - 
+  2022-10-31 09:59:23 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 09:59:29 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 09:59:30 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 09:59:37 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 09:59:38 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 09:59:43 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 09:59:44 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 09:59:44 INFO  iNetBanking:85 - 
+  2022-10-31 10:02:54 INFO  iNetBanking:54 - 
+  2022-10-31 10:03:13 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:03:29 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:03:30 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:03:34 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 10:03:35 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 10:03:41 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 10:03:42 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:03:42 INFO  iNetBanking:85 - 
+  2022-10-31 10:04:10 INFO  iNetBanking:54 - 
+  2022-10-31 10:04:22 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:04:29 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:04:29 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:04:29 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 10:04:31 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 10:04:35 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 10:04:37 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:04:37 INFO  iNetBanking:85 - 
+  2022-10-31 10:05:25 INFO  iNetBanking:54 - 
+  2022-10-31 10:05:32 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:05:39 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:05:40 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:05:41 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 10:05:41 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 10:05:43 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 10:05:44 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:05:44 INFO  iNetBanking:85 - 
+  2022-10-31 10:07:08 INFO  iNetBanking:54 - 
+  2022-10-31 10:07:13 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:07:45 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:07:45 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:07:45 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 10:07:46 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 10:07:49 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 10:07:50 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:07:50 INFO  iNetBanking:85 - 
+  2022-10-31 10:08:27 INFO  iNetBanking:54 - 
+  2022-10-31 10:08:33 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:08:42 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:08:42 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:08:43 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 10:08:43 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 10:08:45 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 10:08:46 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:08:46 INFO  iNetBanking:85 - 
+  2022-10-31 10:09:25 INFO  iNetBanking:54 - 
+  2022-10-31 10:09:32 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:09:58 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:09:59 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:10:00 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 10:10:01 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 10:10:04 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 10:10:05 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:10:05 INFO  iNetBanking:85 - 
+  2022-10-31 10:10:56 INFO  iNetBanking:54 - 
+  2022-10-31 10:11:03 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:11:10 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:11:10 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:11:11 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 10:11:12 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 10:11:20 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 10:11:21 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:11:21 INFO  iNetBanking:85 - 
+  2022-10-31 10:11:21 INFO  iNetBanking:54 - 
+  2022-10-31 10:11:24 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:11:50 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:11:51 INFO  iNetBanking:88 - into getdata 
+  2022-10-31 10:11:56 INFO  iNetBanking:108 - Returned logindata array
+  2022-10-31 10:11:56 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:11:57 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:11:57 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:12:24 INFO  iNetBanking:53 - Login Passed
+  2022-10-31 10:12:34 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:12:36 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:12:36 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:12:41 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-31 10:12:45 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-31 10:12:46 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 10:12:46 WARN  iNetBanking:48 - login Failed
+  2022-10-31 10:12:46 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:12:46 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:12:47 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:12:51 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-31 10:12:54 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-31 10:12:56 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 10:12:56 WARN  iNetBanking:48 - login Failed
+  2022-10-31 10:12:56 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:12:57 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:12:57 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:13:04 INFO  iNetBanking:53 - Login Passed
+  2022-10-31 10:13:12 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:13:12 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:13:13 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:13:17 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-31 10:13:20 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-31 10:13:20 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 10:13:20 WARN  iNetBanking:48 - login Failed
+  2022-10-31 10:13:22 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:13:22 INFO  iNetBanking:85 - 
+  2022-10-31 10:13:22 INFO  iNetBanking:54 - 
+  2022-10-31 10:13:27 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:13:37 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:13:37 INFO  iNetBanking:17 - Url is Opened
+  2022-10-31 10:13:38 INFO  iNetBanking:22 - Entered Username
+  2022-10-31 10:13:38 INFO  iNetBanking:24 - Entered Password
+  2022-10-31 10:13:41 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-31 10:13:41 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-10-31 10:13:44 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-10-31 10:13:54 INFO  iNetBanking:42 - Customer Name Set done
+  2022-10-31 10:13:59 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-10-31 10:13:59 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-10-31 10:14:01 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:14:01 INFO  iNetBanking:85 - 
+  2022-10-31 10:31:31 INFO  iNetBanking:54 - 
+  2022-10-31 10:31:40 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:31:47 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:31:48 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:31:48 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 10:31:49 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 10:31:52 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 10:31:52 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:31:52 INFO  iNetBanking:85 - 
+  2022-10-31 10:31:52 INFO  iNetBanking:54 - 
+  2022-10-31 10:31:54 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:32:04 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:32:04 INFO  iNetBanking:88 - into getdata 
+  2022-10-31 10:32:06 INFO  iNetBanking:108 - Returned logindata array
+  2022-10-31 10:32:06 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:32:07 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:32:07 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:32:13 INFO  iNetBanking:53 - Login Passed
+  2022-10-31 10:32:20 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:32:21 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:32:21 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:32:26 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-31 10:32:29 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-31 10:32:29 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 10:32:29 WARN  iNetBanking:48 - login Failed
+  2022-10-31 10:32:29 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:32:30 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:32:30 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:32:35 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-31 10:32:38 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-31 10:32:38 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 10:32:38 WARN  iNetBanking:48 - login Failed
+  2022-10-31 10:32:38 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:32:39 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:32:39 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:32:45 INFO  iNetBanking:53 - Login Passed
+  2022-10-31 10:32:52 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:32:52 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:32:52 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:32:56 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-31 10:32:58 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-31 10:32:59 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 10:32:59 WARN  iNetBanking:48 - login Failed
+  2022-10-31 10:32:59 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:32:59 INFO  iNetBanking:85 - 
+  2022-10-31 10:32:59 INFO  iNetBanking:54 - 
+  2022-10-31 10:33:01 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:33:07 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:33:08 INFO  iNetBanking:17 - Url is Opened
+  2022-10-31 10:33:09 INFO  iNetBanking:22 - Entered Username
+  2022-10-31 10:33:09 INFO  iNetBanking:24 - Entered Password
+  2022-10-31 10:33:12 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-31 10:33:12 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-10-31 10:33:13 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-10-31 10:33:21 INFO  iNetBanking:42 - Customer Name Set done
+  2022-10-31 10:33:27 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-10-31 10:33:27 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-10-31 10:33:27 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:33:27 INFO  iNetBanking:85 - 
+  2022-10-31 10:36:31 INFO  iNetBanking:54 - 
+  2022-10-31 10:36:36 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:37:05 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:37:05 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:37:06 INFO  iNetBanking:23 - Entered Username
+  2022-10-31 10:37:06 INFO  iNetBanking:25 - Entered Password
+  2022-10-31 10:37:10 INFO  iNetBanking:32 - Login test Passed
+  2022-10-31 10:37:11 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:37:11 INFO  iNetBanking:85 - 
+  2022-10-31 10:37:11 INFO  iNetBanking:54 - 
+  2022-10-31 10:37:12 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:37:20 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:37:20 INFO  iNetBanking:88 - into getdata 
+  2022-10-31 10:37:22 INFO  iNetBanking:108 - Returned logindata array
+  2022-10-31 10:37:22 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:37:23 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:37:23 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:37:28 INFO  iNetBanking:53 - Login Passed
+  2022-10-31 10:37:52 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:37:53 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:37:53 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:38:01 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-31 10:38:04 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-31 10:38:04 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 10:38:04 WARN  iNetBanking:48 - login Failed
+  2022-10-31 10:38:04 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:38:04 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:38:05 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:38:09 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-31 10:38:13 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-31 10:38:13 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 10:38:13 WARN  iNetBanking:48 - login Failed
+  2022-10-31 10:38:13 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:38:14 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:38:14 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:38:23 INFO  iNetBanking:53 - Login Passed
+  2022-10-31 10:38:30 INFO  iNetBanking:18 - Url is Opened
+  2022-10-31 10:38:30 INFO  iNetBanking:22 - Username Entered
+  2022-10-31 10:38:31 INFO  iNetBanking:24 - Password Entered
+  2022-10-31 10:38:35 INFO  iNetBanking:75 - Alert Is Present
+  2022-10-31 10:38:37 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-10-31 10:38:38 INFO  iNetBanking:97 - Screenshot Taken
+  2022-10-31 10:38:38 WARN  iNetBanking:48 - login Failed
+  2022-10-31 10:38:38 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:38:38 INFO  iNetBanking:85 - 
+  2022-10-31 10:38:38 INFO  iNetBanking:54 - 
+  2022-10-31 10:38:40 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-10-31 10:39:09 INFO  iNetBanking:73 - trying opening url
+  2022-10-31 10:39:09 INFO  iNetBanking:17 - Url is Opened
+  2022-10-31 10:39:09 INFO  iNetBanking:22 - Entered Username
+  2022-10-31 10:39:09 INFO  iNetBanking:24 - Entered Password
+  2022-10-31 10:39:11 INFO  iNetBanking:27 - Login Button Clicked
+  2022-10-31 10:39:11 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-10-31 10:39:12 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-10-31 10:39:17 INFO  iNetBanking:42 - Customer Name Set done
+  2022-10-31 10:39:21 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-10-31 10:39:21 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-10-31 10:39:22 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-10-31 10:39:22 INFO  iNetBanking:85 - 
+  2022-11-01 16:29:54 INFO  iNetBanking:54 - 
+  2022-11-01 16:30:29 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 16:30:44 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 16:30:45 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 16:30:47 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 16:30:47 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 16:30:54 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 16:30:54 INFO  iNetBanking:85 - 
+  2022-11-01 16:34:57 INFO  iNetBanking:54 - 
+  2022-11-01 16:35:14 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 16:35:28 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 16:35:28 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 16:35:30 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 16:35:30 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 16:35:34 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 16:35:34 INFO  iNetBanking:85 - 
+  2022-11-01 16:42:57 INFO  iNetBanking:54 - 
+  2022-11-01 16:43:21 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 16:43:33 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 16:43:34 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 16:43:36 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 16:43:36 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 16:43:46 INFO  iNetBanking:32 - Login test Passed
+  2022-11-01 16:43:50 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 16:43:50 INFO  iNetBanking:85 - 
+  2022-11-01 16:45:10 INFO  iNetBanking:54 - 
+  2022-11-01 16:45:30 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 16:45:46 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 16:45:47 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 16:45:50 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 16:45:50 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 16:46:00 INFO  iNetBanking:32 - Login test Passed
+  2022-11-01 16:46:02 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 16:46:02 INFO  iNetBanking:85 - 
+  2022-11-01 16:47:07 INFO  iNetBanking:54 - 
+  2022-11-01 16:47:14 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 16:47:26 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 16:47:26 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 16:47:26 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 16:47:27 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 16:47:30 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 16:47:30 INFO  iNetBanking:37 - Login test Failed
+  2022-11-01 16:47:31 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 16:47:31 INFO  iNetBanking:85 - 
+  2022-11-01 16:52:56 INFO  iNetBanking:54 - 
+  2022-11-01 16:53:02 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 16:53:12 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 16:53:12 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 16:53:13 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 16:53:13 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 16:53:18 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 16:53:18 INFO  iNetBanking:37 - Login test Failed
+  2022-11-01 16:53:19 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 16:53:19 INFO  iNetBanking:85 - 
+  2022-11-01 16:56:06 INFO  iNetBanking:54 - 
+  2022-11-01 16:56:12 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 16:56:24 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 16:56:24 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 16:56:24 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 16:56:25 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 16:56:32 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 16:56:32 INFO  iNetBanking:39 - Login test Failed
+  2022-11-01 16:56:32 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 16:56:32 INFO  iNetBanking:85 - 
+  2022-11-01 17:09:12 INFO  iNetBanking:54 - 
+  2022-11-01 17:09:31 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:09:44 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:09:44 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:09:49 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 17:09:50 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 17:10:01 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 17:10:03 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:10:03 INFO  iNetBanking:85 - 
+  2022-11-01 17:20:10 INFO  iNetBanking:54 - 
+  2022-11-01 17:20:31 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:20:44 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:20:45 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:20:50 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 17:20:50 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 17:20:56 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 17:20:58 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:20:58 INFO  iNetBanking:85 - 
+  2022-11-01 17:21:26 INFO  iNetBanking:54 - 
+  2022-11-01 17:21:32 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:21:40 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:21:41 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:21:44 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 17:21:44 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 17:21:50 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 17:21:51 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:21:51 INFO  iNetBanking:85 - 
+  2022-11-01 17:22:36 INFO  iNetBanking:54 - 
+  2022-11-01 17:22:42 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:22:49 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:22:49 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:22:50 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 17:22:51 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 17:22:58 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 17:22:59 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:22:59 INFO  iNetBanking:85 - 
+  2022-11-01 17:37:08 INFO  iNetBanking:54 - 
+  2022-11-01 17:37:18 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:37:32 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:37:33 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:37:34 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 17:37:34 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 17:37:49 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 17:37:51 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:37:51 INFO  iNetBanking:85 - 
+  2022-11-01 17:42:56 INFO  iNetBanking:54 - 
+  2022-11-01 17:43:05 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:43:20 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:43:20 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:43:25 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 17:43:25 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 17:43:33 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 17:43:34 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:43:34 INFO  iNetBanking:85 - 
+  2022-11-01 17:45:04 INFO  iNetBanking:54 - 
+  2022-11-01 17:45:11 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:45:19 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:45:19 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:45:20 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 17:45:25 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 17:45:37 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 17:45:38 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:45:38 INFO  iNetBanking:85 - 
+  2022-11-01 17:46:51 INFO  iNetBanking:54 - 
+  2022-11-01 17:46:57 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:47:04 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:47:04 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:47:05 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 17:47:05 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 17:47:11 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 17:47:13 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:47:13 INFO  iNetBanking:85 - 
+  2022-11-01 17:53:59 INFO  iNetBanking:54 - 
+  2022-11-01 17:54:05 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:54:16 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:54:16 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:54:17 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 17:54:17 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 17:54:22 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 17:54:23 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:54:23 INFO  iNetBanking:85 - 
+  2022-11-01 17:54:23 INFO  iNetBanking:54 - 
+  2022-11-01 17:54:25 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:54:32 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:54:32 INFO  iNetBanking:88 - into getdata 
+  2022-11-01 17:54:38 INFO  iNetBanking:108 - Returned logindata array
+  2022-11-01 17:54:38 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:54:39 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 17:54:39 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 17:54:45 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 17:54:53 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:54:53 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 17:54:54 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 17:54:58 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 17:55:03 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 17:55:04 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 17:55:04 WARN  iNetBanking:48 - login Failed
+  2022-11-01 17:55:04 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:55:04 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 17:55:04 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 17:55:11 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 17:55:22 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 17:55:22 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 17:55:22 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 17:55:27 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 17:55:29 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 17:55:30 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 17:55:30 WARN  iNetBanking:48 - login Failed
+  2022-11-01 17:55:30 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:55:30 INFO  iNetBanking:85 - 
+  2022-11-01 17:55:30 INFO  iNetBanking:54 - 
+  2022-11-01 17:55:32 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 17:55:40 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 17:55:41 INFO  iNetBanking:17 - Url is Opened
+  2022-11-01 17:55:41 INFO  iNetBanking:22 - Entered Username
+  2022-11-01 17:55:41 INFO  iNetBanking:24 - Entered Password
+  2022-11-01 17:55:44 INFO  iNetBanking:27 - Login Button Clicked
+  2022-11-01 17:55:44 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-11-01 17:55:46 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-11-01 17:55:54 INFO  iNetBanking:42 - Customer Name Set done
+  2022-11-01 17:56:01 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-11-01 17:56:01 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-11-01 17:56:02 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 17:56:02 INFO  iNetBanking:85 - 
+  2022-11-01 18:27:17 INFO  iNetBanking:54 - 
+  2022-11-01 18:27:27 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 18:27:35 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 18:27:36 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 18:27:38 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 18:27:39 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 18:27:46 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 18:27:47 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 18:27:47 INFO  iNetBanking:85 - 
+  2022-11-01 18:27:47 INFO  iNetBanking:54 - 
+  2022-11-01 18:27:50 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 18:28:03 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 18:28:04 INFO  iNetBanking:88 - into getdata 
+  2022-11-01 18:28:09 INFO  iNetBanking:108 - Returned logindata array
+  2022-11-01 18:28:09 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 18:28:09 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 18:28:10 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 18:28:16 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 18:28:25 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 18:28:25 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 18:28:25 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 18:28:30 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 18:28:36 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 18:28:36 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 18:28:36 WARN  iNetBanking:48 - login Failed
+  2022-11-01 18:28:36 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 18:28:36 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 18:28:36 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 18:28:43 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 18:28:50 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 18:28:50 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 18:28:51 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 18:28:56 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 18:28:59 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 18:28:59 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 18:28:59 WARN  iNetBanking:48 - login Failed
+  2022-11-01 18:29:00 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 18:29:00 INFO  iNetBanking:85 - 
+  2022-11-01 18:29:00 INFO  iNetBanking:54 - 
+  2022-11-01 18:29:02 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 18:29:12 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 18:29:12 INFO  iNetBanking:17 - Url is Opened
+  2022-11-01 18:29:13 INFO  iNetBanking:22 - Entered Username
+  2022-11-01 18:29:13 INFO  iNetBanking:24 - Entered Password
+  2022-11-01 18:29:16 INFO  iNetBanking:27 - Login Button Clicked
+  2022-11-01 18:29:16 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-11-01 18:29:16 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-11-01 18:29:22 INFO  iNetBanking:42 - Customer Name Set done
+  2022-11-01 18:29:28 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-11-01 18:29:28 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-11-01 18:29:29 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 18:29:29 INFO  iNetBanking:85 - 
+  2022-11-01 18:46:34 INFO  iNetBanking:54 - 
+  2022-11-01 18:47:08 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 18:47:24 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 18:47:24 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 18:47:27 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 18:47:28 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 18:47:46 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 18:47:48 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 18:47:48 INFO  iNetBanking:85 - 
+  2022-11-01 18:59:40 INFO  iNetBanking:54 - 
+  2022-11-01 19:00:03 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 19:00:15 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 19:00:15 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 19:00:18 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 19:00:18 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 19:00:26 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 19:00:27 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 19:00:27 INFO  iNetBanking:85 - 
+  2022-11-01 20:43:58 INFO  iNetBanking:54 - 
+  2022-11-01 20:44:33 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 20:44:49 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 20:44:49 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 20:44:50 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 20:44:50 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 20:44:58 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 20:44:59 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 20:44:59 INFO  iNetBanking:85 - 
+  2022-11-01 20:47:41 INFO  iNetBanking:54 - 
+  2022-11-01 20:48:11 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 20:48:17 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 20:48:18 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 20:48:21 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 20:48:22 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 20:48:30 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 20:48:31 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 20:48:31 INFO  iNetBanking:85 - 
+  2022-11-01 20:53:16 INFO  iNetBanking:54 - 
+  2022-11-01 20:53:31 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 20:53:46 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 20:53:46 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 20:53:48 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 20:53:48 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 20:53:58 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 20:53:59 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 20:53:59 INFO  iNetBanking:85 - 
+  2022-11-01 20:53:59 INFO  iNetBanking:54 - 
+  2022-11-01 20:54:06 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 20:54:14 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 20:54:14 INFO  iNetBanking:88 - into getdata 
+  2022-11-01 20:54:23 INFO  iNetBanking:108 - Returned logindata array
+  2022-11-01 20:54:23 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 20:54:24 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 20:54:25 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 20:54:35 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 20:54:47 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 20:54:48 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 20:54:49 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 20:54:53 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 20:54:58 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 20:54:58 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 20:54:58 WARN  iNetBanking:48 - login Failed
+  2022-11-01 20:54:58 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 20:55:00 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 20:55:00 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 20:55:10 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 20:55:20 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 20:55:21 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 20:55:21 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 20:55:25 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 20:55:29 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 20:55:30 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 20:55:30 WARN  iNetBanking:48 - login Failed
+  2022-11-01 20:55:30 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 20:55:30 INFO  iNetBanking:85 - 
+  2022-11-01 20:55:30 INFO  iNetBanking:54 - 
+  2022-11-01 20:55:39 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 20:55:49 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 20:55:49 INFO  iNetBanking:17 - Url is Opened
+  2022-11-01 20:55:49 INFO  iNetBanking:22 - Entered Username
+  2022-11-01 20:55:49 INFO  iNetBanking:24 - Entered Password
+  2022-11-01 20:55:50 INFO  iNetBanking:27 - Login Button Clicked
+  2022-11-01 20:55:50 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-11-01 20:55:51 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 20:55:51 INFO  iNetBanking:85 - 
+  2022-11-01 21:01:29 INFO  iNetBanking:54 - 
+  2022-11-01 21:01:42 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 21:01:54 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 21:01:55 INFO  iNetBanking:17 - Url is Opened
+  2022-11-01 21:01:55 INFO  iNetBanking:22 - Entered Username
+  2022-11-01 21:01:55 INFO  iNetBanking:24 - Entered Password
+  2022-11-01 21:01:58 INFO  iNetBanking:27 - Login Button Clicked
+  2022-11-01 21:01:58 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-11-01 21:02:01 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-11-01 21:02:10 INFO  iNetBanking:42 - Customer Name Set done
+  2022-11-01 21:02:17 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-11-01 21:02:17 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-11-01 21:02:19 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 21:02:19 INFO  iNetBanking:85 - 
+  2022-11-01 21:03:32 INFO  iNetBanking:54 - 
+  2022-11-01 21:03:49 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 21:04:10 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 21:04:10 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 21:04:11 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 21:04:12 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 21:04:22 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 21:04:23 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 21:04:23 INFO  iNetBanking:85 - 
+  2022-11-01 21:04:23 INFO  iNetBanking:54 - 
+  2022-11-01 21:04:29 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 21:04:35 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 21:04:35 INFO  iNetBanking:88 - into getdata 
+  2022-11-01 21:04:43 INFO  iNetBanking:108 - Returned logindata array
+  2022-11-01 21:04:43 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 21:04:43 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 21:04:43 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 21:04:50 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 21:04:58 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 21:04:58 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 21:04:59 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 21:05:04 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 21:05:08 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 21:05:10 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 21:05:10 WARN  iNetBanking:48 - login Failed
+  2022-11-01 21:05:10 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 21:05:10 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 21:05:10 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 21:05:18 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 21:05:30 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 21:05:31 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 21:05:31 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 21:05:35 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 21:05:39 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 21:05:39 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 21:05:39 WARN  iNetBanking:48 - login Failed
+  2022-11-01 21:05:42 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 21:05:42 INFO  iNetBanking:85 - 
+  2022-11-01 21:05:42 INFO  iNetBanking:54 - 
+  2022-11-01 21:05:47 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 21:05:58 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 21:05:58 INFO  iNetBanking:17 - Url is Opened
+  2022-11-01 21:05:58 INFO  iNetBanking:22 - Entered Username
+  2022-11-01 21:05:58 INFO  iNetBanking:24 - Entered Password
+  2022-11-01 21:06:02 INFO  iNetBanking:27 - Login Button Clicked
+  2022-11-01 21:06:02 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-11-01 21:06:04 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-11-01 21:06:11 INFO  iNetBanking:42 - Customer Name Set done
+  2022-11-01 21:06:17 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-11-01 21:06:17 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-11-01 21:06:18 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 21:06:18 INFO  iNetBanking:85 - 
+  2022-11-01 22:14:47 INFO  iNetBanking:54 - 
+  2022-11-01 22:15:08 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 22:15:28 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 22:15:28 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:15:29 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 22:15:30 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 22:15:44 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 22:15:45 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 22:15:45 INFO  iNetBanking:85 - 
+  2022-11-01 22:15:45 INFO  iNetBanking:54 - 
+  2022-11-01 22:15:50 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 22:16:03 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 22:16:03 INFO  iNetBanking:88 - into getdata 
+  2022-11-01 22:16:09 INFO  iNetBanking:108 - Returned logindata array
+  2022-11-01 22:16:09 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:16:10 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 22:16:10 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 22:16:18 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 22:16:30 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:16:30 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 22:16:33 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 22:16:37 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 22:16:45 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 22:16:45 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 22:16:45 WARN  iNetBanking:48 - login Failed
+  2022-11-01 22:16:45 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:16:45 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 22:16:46 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 22:16:54 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 22:17:04 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:17:04 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 22:17:04 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 22:17:11 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 22:17:15 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 22:17:15 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 22:17:15 WARN  iNetBanking:48 - login Failed
+  2022-11-01 22:17:16 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 22:17:16 INFO  iNetBanking:85 - 
+  2022-11-01 22:17:16 INFO  iNetBanking:54 - 
+  2022-11-01 22:17:23 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 22:17:44 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 22:17:44 INFO  iNetBanking:17 - Url is Opened
+  2022-11-01 22:17:44 INFO  iNetBanking:22 - Entered Username
+  2022-11-01 22:17:44 INFO  iNetBanking:24 - Entered Password
+  2022-11-01 22:17:52 INFO  iNetBanking:27 - Login Button Clicked
+  2022-11-01 22:17:52 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-11-01 22:17:53 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-11-01 22:18:00 INFO  iNetBanking:42 - Customer Name Set done
+  2022-11-01 22:18:06 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-11-01 22:18:06 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-11-01 22:18:07 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 22:18:07 INFO  iNetBanking:85 - 
+  2022-11-01 22:19:22 INFO  iNetBanking:54 - 
+  2022-11-01 22:19:30 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 22:19:44 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 22:19:44 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:19:44 INFO  iNetBanking:23 - Entered Username
+  2022-11-01 22:19:44 INFO  iNetBanking:25 - Entered Password
+  2022-11-01 22:19:49 INFO  iNetBanking:34 - Login test Passed
+  2022-11-01 22:19:49 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 22:19:49 INFO  iNetBanking:85 - 
+  2022-11-01 22:19:49 INFO  iNetBanking:54 - 
+  2022-11-01 22:19:53 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 22:20:05 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 22:20:05 INFO  iNetBanking:88 - into getdata 
+  2022-11-01 22:20:09 INFO  iNetBanking:108 - Returned logindata array
+  2022-11-01 22:20:09 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:20:10 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 22:20:10 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 22:20:20 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 22:20:30 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:20:30 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 22:20:32 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 22:20:36 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 22:20:43 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 22:20:43 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 22:20:43 WARN  iNetBanking:48 - login Failed
+  2022-11-01 22:20:43 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:20:43 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 22:20:43 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 22:20:52 INFO  iNetBanking:53 - Login Passed
+  2022-11-01 22:21:05 INFO  iNetBanking:18 - Url is Opened
+  2022-11-01 22:21:05 INFO  iNetBanking:22 - Username Entered
+  2022-11-01 22:21:05 INFO  iNetBanking:24 - Password Entered
+  2022-11-01 22:21:11 INFO  iNetBanking:75 - Alert Is Present
+  2022-11-01 22:21:15 INFO  iNetBanking:46 - Trying to get screenhot
+  2022-11-01 22:21:16 INFO  iNetBanking:97 - Screenshot Taken
+  2022-11-01 22:21:16 WARN  iNetBanking:48 - login Failed
+  2022-11-01 22:21:16 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 22:21:16 INFO  iNetBanking:85 - 
+  2022-11-01 22:21:16 INFO  iNetBanking:54 - 
+  2022-11-01 22:21:20 INFO  iNetBanking:60 - Chromedriver Setup Done
+  2022-11-01 22:21:38 INFO  iNetBanking:73 - trying opening url
+  2022-11-01 22:21:38 INFO  iNetBanking:17 - Url is Opened
+  2022-11-01 22:21:38 INFO  iNetBanking:22 - Entered Username
+  2022-11-01 22:21:39 INFO  iNetBanking:24 - Entered Password
+  2022-11-01 22:21:43 INFO  iNetBanking:27 - Login Button Clicked
+  2022-11-01 22:21:43 INFO  iNetBanking:32 - Add Customer Page object Created
+  2022-11-01 22:21:46 INFO  iNetBanking:35 - Add New Customer Link clicked
+  2022-11-01 22:21:56 INFO  iNetBanking:42 - Customer Name Set done
+  2022-11-01 22:22:04 INFO  iNetBanking:55 - Add Customer Button Clicked
+  2022-11-01 22:22:04 INFO  iNetBanking:62 - Add Customer Test Succcess
+  2022-11-01 22:22:05 INFO  iNetBanking:84 - Quiting Driver Done
+  2022-11-01 22:22:05 INFO  iNetBanking:85 - 
+  
